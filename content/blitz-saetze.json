@@ -1,0 +1,755 @@
+{
+  "version": 1,
+  "saetze": [
+    {
+      "id": "b3-001",
+      "stufe": 3,
+      "text": "das rote Pferd",
+      "ablenker": [
+        "das rote Herz",
+        "das rote Pfund",
+        "das rote Pfand"
+      ]
+    },
+    {
+      "id": "b3-002",
+      "stufe": 3,
+      "text": "die kleine Katze",
+      "ablenker": [
+        "die kleine Tatze",
+        "die kleine Kanne",
+        "die feine Katze"
+      ]
+    },
+    {
+      "id": "b3-003",
+      "stufe": 3,
+      "text": "ein lieber Hund",
+      "ablenker": [
+        "ein lieber Mund",
+        "ein lieber Hut",
+        "ein lieber Bund"
+      ]
+    },
+    {
+      "id": "b3-004",
+      "stufe": 3,
+      "text": "mein bester Freund",
+      "ablenker": [
+        "dein bester Freund",
+        "sein bester Freund",
+        "mein bester Fund"
+      ]
+    },
+    {
+      "id": "b3-005",
+      "stufe": 3,
+      "text": "die weiße Stute",
+      "ablenker": [
+        "die weiße Stufe",
+        "die weiße Stube",
+        "die weite Stute"
+      ]
+    },
+    {
+      "id": "b3-006",
+      "stufe": 3,
+      "text": "im Stall",
+      "ablenker": [
+        "am Stall",
+        "im Ball",
+        "im Stahl"
+      ]
+    },
+    {
+      "id": "b3-007",
+      "stufe": 3,
+      "text": "viele Blumen",
+      "ablenker": [
+        "volle Blumen",
+        "viele Blusen",
+        "viele Blasen"
+      ]
+    },
+    {
+      "id": "b3-008",
+      "stufe": 3,
+      "text": "ein bunter Ball",
+      "ablenker": [
+        "ein bunter Wall",
+        "ein bunter Saal",
+        "ein bunter Bart"
+      ]
+    },
+    {
+      "id": "b3-009",
+      "stufe": 3,
+      "text": "der süße Hase",
+      "ablenker": [
+        "der süße Hafer",
+        "der süße Rabe",
+        "der süße Hagel"
+      ]
+    },
+    {
+      "id": "b3-010",
+      "stufe": 3,
+      "text": "zwei Fohlen",
+      "ablenker": [
+        "zwei Füllen",
+        "zwei Sohlen",
+        "zwei Kohlen"
+      ]
+    },
+    {
+      "id": "b3-011",
+      "stufe": 3,
+      "text": "unser Garten",
+      "ablenker": [
+        "unser Gatter",
+        "unser Gärten",
+        "unser Karten"
+      ]
+    },
+    {
+      "id": "b3-012",
+      "stufe": 3,
+      "text": "ein leises Lied",
+      "ablenker": [
+        "ein weises Lied",
+        "ein leises Lid",
+        "ein leises Lieb"
+      ]
+    },
+    {
+      "id": "b3-013",
+      "stufe": 3,
+      "text": "im Wald",
+      "ablenker": [
+        "im Wall",
+        "im Wal",
+        "am Wald"
+      ]
+    },
+    {
+      "id": "b3-014",
+      "stufe": 3,
+      "text": "die neue Schule",
+      "ablenker": [
+        "die neue Schale",
+        "die neue Spule",
+        "die nette Schule"
+      ]
+    },
+    {
+      "id": "b3-015",
+      "stufe": 3,
+      "text": "mit Freunden",
+      "ablenker": [
+        "mit Freuden",
+        "mit Fremden",
+        "mit Freundin"
+      ]
+    },
+    {
+      "id": "b3-016",
+      "stufe": 3,
+      "text": "ein großer Bär",
+      "ablenker": [
+        "ein großer Bart",
+        "ein großer Bau",
+        "ein großer Bach"
+      ]
+    },
+    {
+      "id": "b3-017",
+      "stufe": 3,
+      "text": "die warme Decke",
+      "ablenker": [
+        "die warme Ecke",
+        "die warme Hecke",
+        "die arme Decke"
+      ]
+    },
+    {
+      "id": "b3-018",
+      "stufe": 3,
+      "text": "ein roter Apfel",
+      "ablenker": [
+        "ein roter Adler",
+        "ein roter Anker",
+        "ein roher Apfel"
+      ]
+    },
+    {
+      "id": "b3-019",
+      "stufe": 3,
+      "text": "Pferde füttern",
+      "ablenker": [
+        "Herde füttern",
+        "Pferde futtern",
+        "Pfunde füttern"
+      ]
+    },
+    {
+      "id": "b3-020",
+      "stufe": 3,
+      "text": "viele Bienen",
+      "ablenker": [
+        "viele Birnen",
+        "viele Bühnen",
+        "viele Biber"
+      ]
+    },
+    {
+      "id": "b4-001",
+      "stufe": 4,
+      "text": "das Pferd im Stall",
+      "ablenker": [
+        "das Pferd im Stahl",
+        "das Pferd am Stall",
+        "das Pfund im Stall"
+      ]
+    },
+    {
+      "id": "b4-002",
+      "stufe": 4,
+      "text": "die Katze schläft",
+      "ablenker": [
+        "die Tatze schläft",
+        "die Katze schlüpft",
+        "die Kanne schläft"
+      ]
+    },
+    {
+      "id": "b4-003",
+      "stufe": 4,
+      "text": "mein Hund und ich",
+      "ablenker": [
+        "mein Mund und ich",
+        "dein Hund und ich",
+        "mein Hut und ich"
+      ]
+    },
+    {
+      "id": "b4-004",
+      "stufe": 4,
+      "text": "ein Fohlen springt",
+      "ablenker": [
+        "ein Fohlen spricht",
+        "ein Fohlen singt",
+        "ein Füllen springt"
+      ]
+    },
+    {
+      "id": "b4-005",
+      "stufe": 4,
+      "text": "wir spielen zusammen",
+      "ablenker": [
+        "wir spülen zusammen",
+        "wir spielten zusammen",
+        "wir speisen zusammen"
+      ]
+    },
+    {
+      "id": "b4-006",
+      "stufe": 4,
+      "text": "der Vogel singt laut",
+      "ablenker": [
+        "der Vogel sinkt laut",
+        "der Vogel singt lang",
+        "der Nagel singt laut"
+      ]
+    },
+    {
+      "id": "b4-007",
+      "stufe": 4,
+      "text": "die Sonne scheint hell",
+      "ablenker": [
+        "die Sonne schien hell",
+        "die Sonde scheint hell",
+        "die Sonne scheint grell"
+      ]
+    },
+    {
+      "id": "b4-008",
+      "stufe": 4,
+      "text": "ein Brief für dich",
+      "ablenker": [
+        "ein Brief für mich",
+        "ein Brei für dich",
+        "ein Brief für sich"
+      ]
+    },
+    {
+      "id": "b4-009",
+      "stufe": 4,
+      "text": "Mia reitet heute",
+      "ablenker": [
+        "Mia reist heute",
+        "Mia leitet heute",
+        "Mia reitet heuer"
+      ]
+    },
+    {
+      "id": "b4-010",
+      "stufe": 4,
+      "text": "ein Kuchen für Oma",
+      "ablenker": [
+        "ein Kuchen für Opa",
+        "ein Küken für Oma",
+        "ein Kuchen von Oma"
+      ]
+    },
+    {
+      "id": "b4-011",
+      "stufe": 4,
+      "text": "der Hase hoppelt schnell",
+      "ablenker": [
+        "der Hase humpelt schnell",
+        "der Hase hoppelt still",
+        "der Rabe hoppelt schnell"
+      ]
+    },
+    {
+      "id": "b4-012",
+      "stufe": 4,
+      "text": "wir teilen das Eis",
+      "ablenker": [
+        "wir teilen das Ei",
+        "wir heilen das Eis",
+        "wir teilten das Eis"
+      ]
+    },
+    {
+      "id": "b4-013",
+      "stufe": 4,
+      "text": "die Maus im Haus",
+      "ablenker": [
+        "die Maus am Haus",
+        "die Maus im Heu",
+        "die Maus im Hut"
+      ]
+    },
+    {
+      "id": "b4-014",
+      "stufe": 4,
+      "text": "meine liebe Freundin",
+      "ablenker": [
+        "deine liebe Freundin",
+        "meine liebe Freude",
+        "seine liebe Freundin"
+      ]
+    },
+    {
+      "id": "b4-015",
+      "stufe": 4,
+      "text": "ein Nest im Baum",
+      "ablenker": [
+        "ein Nest im Raum",
+        "ein Nest im Bau",
+        "ein Netz im Baum"
+      ]
+    },
+    {
+      "id": "b4-016",
+      "stufe": 4,
+      "text": "das Pony ist braun",
+      "ablenker": [
+        "das Pony ist blau",
+        "das Pony ist brav",
+        "das Pony ist rau"
+      ]
+    },
+    {
+      "id": "b4-017",
+      "stufe": 4,
+      "text": "Papa backt Brot",
+      "ablenker": [
+        "Papa packt Brot",
+        "Papa backt Brei",
+        "Papa backt Boot"
+      ]
+    },
+    {
+      "id": "b4-018",
+      "stufe": 4,
+      "text": "der Igel schläft",
+      "ablenker": [
+        "der Egel schläft",
+        "der Igel schlüpft",
+        "der Igel schleift"
+      ]
+    },
+    {
+      "id": "b4-019",
+      "stufe": 4,
+      "text": "viele bunte Fische",
+      "ablenker": [
+        "viele bunte Tische",
+        "viele bunte Fichten",
+        "viele runde Fische"
+      ]
+    },
+    {
+      "id": "b4-020",
+      "stufe": 4,
+      "text": "im Sommer am See",
+      "ablenker": [
+        "im Sommer am Steg",
+        "im Sommer im See",
+        "im Sommer am Klee"
+      ]
+    },
+    {
+      "id": "b5-001",
+      "stufe": 5,
+      "text": "Das Pony frisst Möhren.",
+      "ablenker": [
+        "Das Pony frisst Röhren.",
+        "Das Pony misst Möhren.",
+        "Das Pony frisst Mähnen."
+      ]
+    },
+    {
+      "id": "b5-002",
+      "stufe": 5,
+      "text": "Die Katze trinkt Milch.",
+      "ablenker": [
+        "Die Tatze trinkt Milch.",
+        "Die Katze trinkt Mehl.",
+        "Die Kanne trinkt Milch."
+      ]
+    },
+    {
+      "id": "b5-003",
+      "stufe": 5,
+      "text": "Mein Freund heißt Ben.",
+      "ablenker": [
+        "Dein Freund heißt Ben.",
+        "Mein Freund heißt Bern.",
+        "Mein Freund hieß Ben."
+      ]
+    },
+    {
+      "id": "b5-004",
+      "stufe": 5,
+      "text": "Wir reiten in den Wald.",
+      "ablenker": [
+        "Wir reisen in den Wald.",
+        "Wir reiten in den Wall.",
+        "Wir reiten an den Wald."
+      ]
+    },
+    {
+      "id": "b5-005",
+      "stufe": 5,
+      "text": "Oma backt einen Kuchen.",
+      "ablenker": [
+        "Opa backt einen Kuchen.",
+        "Oma packt einen Kuchen.",
+        "Oma backt einen Knochen."
+      ]
+    },
+    {
+      "id": "b5-006",
+      "stufe": 5,
+      "text": "Der Hund holt den Ball.",
+      "ablenker": [
+        "Der Hund rollt den Ball.",
+        "Der Hund hält den Ball.",
+        "Der Hund holt den Wall."
+      ]
+    },
+    {
+      "id": "b5-007",
+      "stufe": 5,
+      "text": "Lena hilft ihrer Freundin.",
+      "ablenker": [
+        "Lena hilft seiner Freundin.",
+        "Lena hilft ihrer Freude.",
+        "Lena half ihrer Freundin."
+      ]
+    },
+    {
+      "id": "b5-008",
+      "stufe": 5,
+      "text": "Die Bienen summen laut.",
+      "ablenker": [
+        "Die Birnen summen laut.",
+        "Die Bienen summen lang.",
+        "Die Bienen stimmen laut."
+      ]
+    },
+    {
+      "id": "b5-009",
+      "stufe": 5,
+      "text": "Im Stall steht ein Fohlen.",
+      "ablenker": [
+        "Im Stall stand ein Fohlen.",
+        "Im Stahl steht ein Fohlen.",
+        "Im Stall steht ein Füllen."
+      ]
+    },
+    {
+      "id": "b5-010",
+      "stufe": 5,
+      "text": "Heute scheint die Sonne.",
+      "ablenker": [
+        "Heute schien die Sonne.",
+        "Heute scheint die Sonde.",
+        "Heute scheint die Tonne."
+      ]
+    },
+    {
+      "id": "b5-011",
+      "stufe": 5,
+      "text": "Tim füttert die Hasen.",
+      "ablenker": [
+        "Tim fütterte die Hasen.",
+        "Tim füttert die Rosen.",
+        "Tim füttert die Vasen."
+      ]
+    },
+    {
+      "id": "b5-012",
+      "stufe": 5,
+      "text": "Wir lachen viel zusammen.",
+      "ablenker": [
+        "Wir machen viel zusammen.",
+        "Wir wachen viel zusammen.",
+        "Wir lachten viel zusammen."
+      ]
+    },
+    {
+      "id": "b5-013",
+      "stufe": 5,
+      "text": "Das Pferd hat eine Mähne.",
+      "ablenker": [
+        "Das Pferd hat eine Möhre.",
+        "Das Pferd hat keine Mähne.",
+        "Das Pferd hat eine Mähre."
+      ]
+    },
+    {
+      "id": "b5-014",
+      "stufe": 5,
+      "text": "Ich lese ein Buch.",
+      "ablenker": [
+        "Ich lese ein Tuch.",
+        "Ich lege ein Buch.",
+        "Ich löse ein Buch."
+      ]
+    },
+    {
+      "id": "b5-015",
+      "stufe": 5,
+      "text": "Der Frosch springt hoch.",
+      "ablenker": [
+        "Der Frosch singt hoch.",
+        "Der Frosch springt doch.",
+        "Der Fisch springt hoch."
+      ]
+    },
+    {
+      "id": "b5-016",
+      "stufe": 5,
+      "text": "Mama kauft frisches Obst.",
+      "ablenker": [
+        "Mama kaut frisches Obst.",
+        "Mama kaufte frisches Obst.",
+        "Papa kauft frisches Obst."
+      ]
+    },
+    {
+      "id": "b5-017",
+      "stufe": 5,
+      "text": "Die Kinder spielen im Garten.",
+      "ablenker": [
+        "Die Kinder spülen im Garten.",
+        "Die Rinder spielen im Garten.",
+        "Die Kinder spielen im Gatter."
+      ]
+    },
+    {
+      "id": "b5-018",
+      "stufe": 5,
+      "text": "Der Esel ist sehr klug.",
+      "ablenker": [
+        "Der Igel ist sehr klug.",
+        "Der Esel ist sehr kühl.",
+        "Der Esel ist mehr klug."
+      ]
+    },
+    {
+      "id": "b5-019",
+      "stufe": 5,
+      "text": "Ich schenke dir eine Blume.",
+      "ablenker": [
+        "Ich schenke dir eine Bluse.",
+        "Ich schenkte dir eine Blume.",
+        "Ich schenke mir eine Blume."
+      ]
+    },
+    {
+      "id": "b5-020",
+      "stufe": 5,
+      "text": "Wo ist mein Kuscheltier?",
+      "ablenker": [
+        "Wo ist dein Kuscheltier?",
+        "Wo ist mein Kuscheltür?",
+        "Wo isst mein Kuscheltier?"
+      ]
+    },
+    {
+      "id": "b6-001",
+      "stufe": 6,
+      "text": "Am Wochenende reiten wir auf dem Ponyhof.",
+      "ablenker": [
+        "Am Wochenende reisen wir auf dem Ponyhof.",
+        "Am Wochenende reiten wir auf den Ponyhof.",
+        "Am Wochenende reiten wir auf dem Ponyhut."
+      ]
+    },
+    {
+      "id": "b6-002",
+      "stufe": 6,
+      "text": "Meine Freundin und ich teilen unser Pausenbrot.",
+      "ablenker": [
+        "Meine Freundin und ich heilen unser Pausenbrot.",
+        "Meine Freundin und ich teilen euer Pausenbrot.",
+        "Deine Freundin und ich teilen unser Pausenbrot."
+      ]
+    },
+    {
+      "id": "b6-003",
+      "stufe": 6,
+      "text": "Das kleine Fohlen trinkt Milch bei seiner Mama.",
+      "ablenker": [
+        "Das kleine Füllen trinkt Milch bei seiner Mama.",
+        "Das kleine Fohlen trinkt Mehl bei seiner Mama.",
+        "Das kleine Fohlen trinkt Milch bei seiner Oma."
+      ]
+    },
+    {
+      "id": "b6-004",
+      "stufe": 6,
+      "text": "Im Garten blühen viele bunte Blumen.",
+      "ablenker": [
+        "Im Garten glühen viele bunte Blumen.",
+        "Im Garten blühen viele bunte Blusen.",
+        "Im Garten blühen viele runde Blumen."
+      ]
+    },
+    {
+      "id": "b6-005",
+      "stufe": 6,
+      "text": "Der Hund wartet jeden Tag vor der Schule.",
+      "ablenker": [
+        "Der Hund wartet jeden Tag vor der Schale.",
+        "Der Mund wartet jeden Tag vor der Schule.",
+        "Der Hund wartete jeden Tag vor der Schule."
+      ]
+    },
+    {
+      "id": "b6-006",
+      "stufe": 6,
+      "text": "Wir bauen zusammen eine Höhle aus Decken.",
+      "ablenker": [
+        "Wir bauten zusammen eine Höhle aus Decken.",
+        "Wir bauen zusammen eine Höhle aus Ecken.",
+        "Wir bauen zusammen eine Höhle aus Deckeln."
+      ]
+    },
+    {
+      "id": "b6-007",
+      "stufe": 6,
+      "text": "Die Katze schläft gern auf meinem warmen Bett.",
+      "ablenker": [
+        "Die Katze schläft gern auf meinem warmen Brett.",
+        "Die Katze schläft gern auf deinem warmen Bett.",
+        "Die Katze schläft gern auf meinem warmen Beet."
+      ]
+    },
+    {
+      "id": "b6-008",
+      "stufe": 6,
+      "text": "Nach der Schule besuche ich meine Oma.",
+      "ablenker": [
+        "Nach der Schule besuchte ich meine Oma.",
+        "Nach der Schule besuche ich deine Oma.",
+        "Nach der Spule besuche ich meine Oma."
+      ]
+    },
+    {
+      "id": "b6-009",
+      "stufe": 6,
+      "text": "Der Schmetterling setzt sich auf eine Blüte.",
+      "ablenker": [
+        "Der Schmetterling setzt sich auf eine Tüte.",
+        "Der Schmetterling setzt sich auf eine Blume.",
+        "Der Schmetterling setzte sich auf eine Blüte."
+      ]
+    },
+    {
+      "id": "b6-010",
+      "stufe": 6,
+      "text": "Paula striegelt ihr Pferd jeden Morgen ganz gründlich.",
+      "ablenker": [
+        "Paula spiegelt ihr Pferd jeden Morgen ganz gründlich.",
+        "Paula striegelt sein Pferd jeden Morgen ganz gründlich.",
+        "Paula striegelt ihr Pferd jeden Morgen ganz freundlich."
+      ]
+    },
+    {
+      "id": "b6-011",
+      "stufe": 6,
+      "text": "Wenn es regnet, spielen wir drinnen Karten.",
+      "ablenker": [
+        "Wenn es regnet, spülen wir drinnen Karten.",
+        "Wenn es regnet, spielen wir draußen Karten.",
+        "Wenn es redet, spielen wir drinnen Karten."
+      ]
+    },
+    {
+      "id": "b6-012",
+      "stufe": 6,
+      "text": "Mein Kaninchen frisst am liebsten frische Möhren.",
+      "ablenker": [
+        "Mein Kaninchen frisst am liebsten frische Röhren.",
+        "Mein Kaninchen misst am liebsten frische Möhren.",
+        "Dein Kaninchen frisst am liebsten frische Möhren."
+      ]
+    },
+    {
+      "id": "b6-013",
+      "stufe": 6,
+      "text": "Im Sommer fahren wir mit dem Fahrrad zum See.",
+      "ablenker": [
+        "Im Sommer fahren wir mit dem Fahrrad zum Klee.",
+        "Im Sommer fuhren wir mit dem Fahrrad zum See.",
+        "Im Sommer fahren wir mit dem Fahrrad vom See."
+      ]
+    },
+    {
+      "id": "b6-014",
+      "stufe": 6,
+      "text": "Ein echter Freund hilft dir auch bei Regen.",
+      "ablenker": [
+        "Ein echter Freund half dir auch bei Regen.",
+        "Ein rechter Freund hilft dir auch bei Regen.",
+        "Ein echter Freund hilft mir auch bei Regen."
+      ]
+    },
+    {
+      "id": "b6-015",
+      "stufe": 6,
+      "text": "Die Pferde galoppieren fröhlich über die Wiese.",
+      "ablenker": [
+        "Die Pferde galoppierten fröhlich über die Wiese.",
+        "Die Pferde galoppieren friedlich über die Wiese.",
+        "Die Pferde galoppieren fröhlich über die Wiege."
+      ]
+    }
+  ]
+}

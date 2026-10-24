@@ -1,0 +1,71 @@
+{
+  "stufe": 1,
+  "geschichten": [
+    {
+      "id": "s1-01",
+      "titel": "Das Po|ny Lu|po",
+      "thema": "pferde",
+      "text": "Lu|po ist ein Po|ny. Lu|po ist klein und braun.\n\nLu|po mag Ha|fer. Ti|na holt den Ha|fer.\n\nTi|na mag Lu|po. Lu|po ist froh.",
+      "fragen": [
+        { "frage": "Wer ist Lupo?", "antworten": ["ein Hund", "ein Pony", "eine Katze"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was mag Lupo?", "antworten": ["Hafer", "Kuchen", "Fisch"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wer holt den Hafer?", "antworten": ["Mama", "Opa", "Tina"], "richtig": 2, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s1-02",
+      "titel": "Die Kat|ze Mi|mi",
+      "thema": "tiere",
+      "text": "Mi|mi ist ei|ne Kat|ze. Mi|mi liegt im Korb.\n\nDa rollt ein Ball. Mi|mi hüpft.\n\nDer Ball rollt weg. Mi|mi rennt los. Mi|mi hat den Ball!",
+      "fragen": [
+        { "frage": "Wo liegt Mimi?", "antworten": ["im Bett", "im Korb", "im Gras"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was rollt da?", "antworten": ["ein Ball", "ein Apfel", "ein Ei"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wer hat am Ende den Ball?", "antworten": ["ein Hund", "die Maus", "Mimi"], "richtig": 2, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s1-03",
+      "titel": "O|le und Pi|a",
+      "thema": "freundschaft",
+      "text": "O|le und Pi|a sind Freun|de.\n\nO|le hat ein Brot. Pi|a hat kein Brot.\n\nO|le teilt das Brot. Pi|a lacht. Nun sind bei|de satt.",
+      "fragen": [
+        { "frage": "Was hat Ole?", "antworten": ["ein Eis", "einen Ball", "ein Brot"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was macht Ole mit dem Brot?", "antworten": ["Er teilt es.", "Er wirft es weg.", "Er versteckt es."], "richtig": 0, "art": "fakt" },
+        { "frage": "Wie sind beide am Ende?", "antworten": ["müde", "satt", "nass"], "richtig": 1, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s1-04",
+      "titel": "El|ma und die En|te",
+      "thema": "tiere",
+      "text": "El|ma ist ein Dra|chen|kind. El|ma ist klein und grün.\n\nAm Teich sitzt ei|ne En|te. Die En|te heißt Ki|ki.\n\nEl|ma winkt. Ki|ki winkt mit dem Flü|gel. Das ist lus|tig!",
+      "fragen": [
+        { "frage": "Wer ist Elma?", "antworten": ["ein Entenkind", "ein Drachenkind", "ein Ponykind"], "richtig": 1, "art": "fakt" },
+        { "frage": "Wie heißt die Ente?", "antworten": ["Mimi", "Lupo", "Kiki"], "richtig": 2, "art": "fakt" },
+        { "frage": "Womit winkt Kiki?", "antworten": ["mit dem Flügel", "mit dem Fuß", "mit dem Kopf"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s1-05",
+      "titel": "Ru|bi am Zaun",
+      "thema": "pferde",
+      "text": "Ru|bi ist ein Pferd. Ru|bi steht am Zaun.\n\nFe|lix kommt mit ei|nem Ap|fel. Ru|bi frisst den Ap|fel.\n\nDann stupst sie Fe|lix. Das heißt: Dan|ke!",
+      "fragen": [
+        { "frage": "Wo steht Rubi?", "antworten": ["im Stall", "im Wald", "am Zaun"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was bringt Felix?", "antworten": ["eine Möhre", "einen Apfel", "Heu"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was heißt das Stupsen?", "antworten": ["Danke", "Hallo", "Tschüss"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s1-06",
+      "titel": "Der ro|te Dra|chen",
+      "thema": "freundschaft",
+      "text": "Ma|la hat ei|nen Dra|chen. Der Dra|chen ist rot.\n\nDer Wind ist zu schwach. Ben kommt und hilft. Ben rennt. Ma|la hält die Schnur.\n\nDa fliegt der Dra|chen hoch!",
+      "fragen": [
+        { "frage": "Welche Farbe hat der Drachen?", "antworten": ["blau", "rot", "gelb"], "richtig": 1, "art": "fakt" },
+        { "frage": "Wer hilft Mala?", "antworten": ["Tina", "Ole", "Ben"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was macht der Drachen am Ende?", "antworten": ["Er fliegt hoch.", "Er fällt runter.", "Er geht kaputt."], "richtig": 0, "art": "fakt" }
+      ]
+    }
+  ]
+}

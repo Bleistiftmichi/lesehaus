@@ -1,0 +1,71 @@
+{
+  "stufe": 3,
+  "geschichten": [
+    {
+      "id": "s3-01",
+      "titel": "Putz|tag für Blitz",
+      "thema": "pferde",
+      "text": "Fri|da putzt je|den Sams|tag ihr Pferd Blitz im Stall.\n\nSie streicht mit der wei|chen Bürs|te ü|ber sein brau|nes Fell. Blitz schnaubt lei|se und schließt die Au|gen.\n\nDann kämmt Fri|da die lan|ge Mäh|ne und den Schweif. Zum Schluss be|kommt Blitz ei|nen Ei|mer fri|sches Was|ser. Nun glänzt sein Fell wie Scho|ko|la|de.",
+      "fragen": [
+        { "frage": "Wann putzt Frida ihr Pferd?", "antworten": ["am Montag", "am Samstag", "am Abend"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was macht Blitz beim Bürsten?", "antworten": ["Er schließt die Augen.", "Er läuft weg.", "Er wiehert laut."], "richtig": 0, "art": "fakt" },
+        { "frage": "Was bekommt Blitz zum Schluss?", "antworten": ["einen Apfel", "eine Decke", "einen Eimer Wasser"], "richtig": 2, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s3-02",
+      "titel": "Die Eu|le Ru|na",
+      "thema": "tiere",
+      "text": "In ei|nem al|ten Baum wohnt die klei|ne Eu|le Ru|na. Am Tag schläft sie im|mer tief und fest.\n\nEin|mal möch|te Ru|na die Son|ne se|hen. Das Eich|hörn|chen Flit|zi weckt sie am Mit|tag.\n\nRu|na blin|zelt in das hel|le Licht und staunt. Die Wie|se leuch|tet gelb vor lau|ter Blu|men. Da|nach schläft Ru|na glück|lich bis zum A|bend.",
+      "fragen": [
+        { "frage": "Wer ist Flitzi?", "antworten": ["eine Eule", "ein Igel", "ein Eichhörnchen"], "richtig": 2, "art": "fakt" },
+        { "frage": "Wann weckt Flitzi Runa?", "antworten": ["am Morgen", "am Mittag", "am Abend"], "richtig": 1, "art": "fakt" },
+        { "frage": "Wovon leuchtet die Wiese gelb?", "antworten": ["von Blumen", "von Laub", "von Sand"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s3-03",
+      "titel": "Der neu|e Jun|ge",
+      "thema": "freundschaft",
+      "text": "Heu|te kommt ein neu|er Jun|ge in die Klas|se. Er heißt Ar|vid und schaut ein biss|chen schüch|tern.\n\nIn der Pau|se steht Ar|vid al|lein am Klet|ter|turm. Ne|le geht zu ihm und fragt: Spielst du mit uns Fan|gen?\n\nAr|vid nickt und grinst ü|ber das gan|ze Ge|sicht. Bald ren|nen al|le Kin|der zu|sam|men ü|ber den Hof.",
+      "fragen": [
+        { "frage": "Wie heißt der neue Junge?", "antworten": ["Arvid", "Malik", "Teo"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wo steht Arvid in der Pause?", "antworten": ["am Tor", "an der Bank", "am Kletterturm"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was fragt Nele?", "antworten": ["ob er Hunger hat", "ob er Fangen spielt", "wie alt er ist"], "richtig": 1, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s3-04",
+      "titel": "Zöp|fe für Pa|pri|ka",
+      "thema": "pferde",
+      "text": "Beim Som|mer|fest auf dem Reit|hof gibt es ei|nen Wett|be|werb. Mi|ra will ihr Po|ny Pa|pri|ka be|son|ders schön ma|chen.\n\nSie flech|tet klei|ne Zöp|fe in die Mäh|ne. Dann steckt sie Gän|se|blüm|chen zwi|schen die Zöp|fe. Pa|pri|ka hält ganz still und schnaubt zu|frie|den.\n\nAm En|de gibt es für al|le Po|nys ei|ne bun|te Schlei|fe. Mi|ra strahlt vor Freu|de ü|ber das gan|ze Ge|sicht.",
+      "fragen": [
+        { "frage": "Wo ist das Sommerfest?", "antworten": ["in der Schule", "auf dem Reithof", "im Zoo"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was steckt Mira zwischen die Zöpfe?", "antworten": ["Federn", "Bänder", "Gänseblümchen"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was bekommen am Ende alle Ponys?", "antworten": ["eine bunte Schleife", "einen Pokal", "eine Möhre"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s3-05",
+      "titel": "El|ma und die Glüh|würm|chen",
+      "thema": "tiere",
+      "text": "Am A|bend sitzt El|ma, das mint|grü|ne Dra|chen|mäd|chen, auf ei|ner Wie|se. Plötz|lich leuch|ten ü|ber|all klei|ne Lich|ter im Gras.\n\nDas sind Glüh|würm|chen, die fröh|lich um El|ma tan|zen. El|ma pus|tet vor Freu|de ei|ne klei|ne Wol|ke aus Glit|zer.\n\nDie Glüh|würm|chen blin|ken zu|rück, als woll|ten sie Dan|ke sa|gen. Jetzt fun|kelt die gan|ze Wie|se wie ein Ster|nen|him|mel.",
+      "fragen": [
+        { "frage": "Wo sitzt Elma?", "antworten": ["auf einem Dach", "auf einer Wiese", "auf einem Baum"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was pustet Elma?", "antworten": ["eine Wolke aus Glitzer", "eine Feder", "Seifenblasen"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wie funkelt die Wiese am Ende?", "antworten": ["wie ein Regenbogen", "wie Schnee", "wie ein Sternenhimmel"], "richtig": 2, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s3-06",
+      "titel": "Das bun|te Baum|haus",
+      "thema": "freundschaft",
+      "text": "Hen|ri und Ro|sa bau|en mit O|pa Kurt ein Baum|haus. Nun soll es ei|ne Far|be be|kom|men.\n\nHen|ri möch|te Blau, a|ber Ro|sa wünscht sich Gelb. Bei|de schau|en sich an und ü|ber|le|gen ei|ne Wei|le.\n\nDann hat Ro|sa ei|ne pri|ma I|dee. Sie strei|chen das Baum|haus ein|fach blau und gelb ge|streift. O|pa Kurt lacht und sagt: Das ist das schöns|te Baum|haus!",
+      "fragen": [
+        { "frage": "Mit wem bauen die Kinder?", "antworten": ["mit Oma", "mit Opa Kurt", "mit Papa"], "richtig": 1, "art": "fakt" },
+        { "frage": "Welche Farbe wünscht sich Rosa?", "antworten": ["Gelb", "Blau", "Rot"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wie wird das Baumhaus am Ende?", "antworten": ["ganz rot", "ganz blau", "blau und gelb gestreift"], "richtig": 2, "art": "fakt" }
+      ]
+    }
+  ]
+}

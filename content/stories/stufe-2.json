@@ -1,0 +1,71 @@
+{
+  "stufe": 2,
+  "geschichten": [
+    {
+      "id": "s2-01",
+      "titel": "Ka|ra|mell springt",
+      "thema": "pferde",
+      "text": "Ka|ra|mell ist ein klei|nes Po|ny mit ei|ner wei|ßen Mäh|ne. Jo|na will mit ihm ü|ber ein Hin|der|nis sprin|gen.\n\nDoch Ka|ra|mell bleibt ste|hen und schnup|pert. Jo|na lacht und war|tet ge|dul|dig.\n\nBeim zwei|ten Mal hüpft Ka|ra|mell drü|ber. Jo|na lobt ihn und gibt ihm ein Zu|cker|stück.",
+      "fragen": [
+        { "frage": "Welche Farbe hat die Mähne?", "antworten": ["schwarz", "weiß", "braun"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was macht Karamell beim ersten Mal?", "antworten": ["Er bleibt stehen.", "Er springt hoch.", "Er läuft weg."], "richtig": 0, "art": "fakt" },
+        { "frage": "Was bekommt Karamell?", "antworten": ["einen Apfel", "Heu", "ein Zuckerstück"], "richtig": 2, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s2-02",
+      "titel": "Der I|gel Stup|si",
+      "thema": "tiere",
+      "text": "Im Gar|ten wohnt ein I|gel. Er heißt Stup|si.\n\nEs wird kalt. Stup|si sucht ein war|mes Bett. Ma|ri|ka harkt das Laub zu ei|nem Hau|fen. Stup|si kriecht in den Hau|fen.\n\nDort schläft er bis zum Früh|ling. Ma|ri|ka flüs|tert: Gu|te Nacht, Stup|si!",
+      "fragen": [
+        { "frage": "Wo wohnt der Igel?", "antworten": ["im Wald", "im Keller", "im Garten"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was harkt Marika zu einem Haufen?", "antworten": ["das Laub", "den Sand", "den Schnee"], "richtig": 0, "art": "fakt" },
+        { "frage": "Bis wann schläft Stupsi?", "antworten": ["bis morgen", "bis zum Frühling", "bis Mittag"], "richtig": 1, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s2-03",
+      "titel": "Der Turm aus Klöt|zen",
+      "thema": "freundschaft",
+      "text": "Lot|ta und Ma|lik bau|en ei|nen Turm aus Klöt|zen. Der Turm wird hö|her und hö|her.\n\nPlötz|lich wa|ckelt er und fällt um. Ma|lik ist trau|rig.\n\nLot|ta sagt: Das macht nichts! Wir bau|en ein|fach ei|nen neu|en Turm. Jetzt wird er noch grö|ßer.",
+      "fragen": [
+        { "frage": "Woraus ist der Turm?", "antworten": ["aus Sand", "aus Klötzen", "aus Karten"], "richtig": 1, "art": "fakt" },
+        { "frage": "Wie fühlt sich Malik, als der Turm fällt?", "antworten": ["froh", "müde", "traurig"], "richtig": 2, "art": "fakt" },
+        { "frage": "Was wollen die beiden dann bauen?", "antworten": ["einen neuen Turm", "ein Haus", "eine Brücke"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s2-04",
+      "titel": "El|ma und das Foh|len",
+      "thema": "pferde",
+      "text": "Auf der Wei|de steht ein Foh|len. Es heißt Wir|bel und hat lan|ge Bei|ne.\n\nEl|ma, das klei|ne Dra|chen|mäd|chen, fliegt vor|bei. Wir|bel er|schrickt nicht. Es rennt ein|fach mit!\n\nEl|ma fliegt, und Wir|bel ga|lop|piert. Zu|sam|men dre|hen sie ei|ne gro|ße Run|de.",
+      "fragen": [
+        { "frage": "Wo steht das Fohlen?", "antworten": ["im Stall", "auf der Weide", "am See"], "richtig": 1, "art": "fakt" },
+        { "frage": "Was macht Wirbel, als Elma kommt?", "antworten": ["Es versteckt sich.", "Es schläft ein.", "Es rennt mit."], "richtig": 2, "art": "fakt" },
+        { "frage": "Wie heißt das Fohlen?", "antworten": ["Wirbel", "Blitz", "Stupsi"], "richtig": 0, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s2-05",
+      "titel": "Die Schne|cke Sa|la|ti",
+      "thema": "tiere",
+      "text": "Sa|la|ti ist ei|ne Schne|cke. Sie will zum Sa|lat am Zaun.\n\nDer Weg ist weit. Ein Kä|fer ruft: Steig auf! Sa|la|ti klet|tert auf sei|nen Rü|cken.\n\nSo kom|men bei|de schnell an. Dann es|sen sie zu|sam|men ein Blatt.",
+      "fragen": [
+        { "frage": "Wer hilft Salati?", "antworten": ["ein Vogel", "eine Maus", "ein Käfer"], "richtig": 2, "art": "fakt" },
+        { "frage": "Wohin will Salati?", "antworten": ["zum Salat am Zaun", "zum Teich", "ins Haus"], "richtig": 0, "art": "fakt" },
+        { "frage": "Was essen beide zusammen?", "antworten": ["eine Beere", "ein Blatt", "einen Apfel"], "richtig": 1, "art": "fakt" }
+      ]
+    },
+    {
+      "id": "s2-06",
+      "titel": "Ein Re|gen|schirm für zwei",
+      "thema": "freundschaft",
+      "text": "Nach der Schu|le reg|net es. Te|o hat kei|nen Schirm.\n\nI|da hat ei|nen gel|ben Re|gen|schirm. Sie ruft: Komm drun|ter! Te|o sagt: Dan|ke, I|da!\n\nZu|sam|men lau|fen sie nach Hau|se. Sie hüp|fen durch je|de Pfüt|ze und la|chen laut.",
+      "fragen": [
+        { "frage": "Wer hat keinen Schirm?", "antworten": ["Ida", "Teo", "die Lehrerin"], "richtig": 1, "art": "fakt" },
+        { "frage": "Welche Farbe hat Idas Schirm?", "antworten": ["gelb", "rot", "grün"], "richtig": 0, "art": "fakt" },
+        { "frage": "Wodurch hüpfen die beiden?", "antworten": ["durch Laub", "durch Sand", "durch Pfützen"], "richtig": 2, "art": "fakt" }
+      ]
+    }
+  ]
+}

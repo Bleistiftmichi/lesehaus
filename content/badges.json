@@ -1,0 +1,25 @@
+{
+  "abzeichen": [
+    { "id": "erste-runde", "icon": "🌱", "titel": "Los geht's!", "text": "Die erste Übung geschafft." },
+    { "id": "alle-uebungen", "icon": "🧭", "titel": "Entdeckerin", "text": "Alle drei Übungen ausprobiert." },
+    { "id": "erste-geschichte", "icon": "📖", "titel": "Erste Geschichte", "text": "Die erste Geschichte gelesen." },
+    { "id": "geschichten-10", "icon": "📚", "titel": "Bücherwurm", "text": "10 Geschichten gelesen." },
+    { "id": "geschichten-30", "icon": "🏰", "titel": "Geschichten-Königin", "text": "30 Geschichten gelesen." },
+    { "id": "silben-50", "icon": "🧩", "titel": "Silben-Sammlerin", "text": "50 Silben-Aufgaben gemacht." },
+    { "id": "silben-200", "icon": "🎨", "titel": "Silben-Profi", "text": "200 Silben-Aufgaben gemacht." },
+    { "id": "blitz-50", "icon": "⚡", "titel": "Blitz-Auge", "text": "50 Wörter geblitzt." },
+    { "id": "blitz-200", "icon": "🌩️", "titel": "Super-Blitz", "text": "200 Wörter geblitzt." },
+    { "id": "alles-richtig", "icon": "🎯", "titel": "Volltreffer", "text": "Eine Übung ganz ohne Fehler." },
+    { "id": "perfekt-10", "icon": "💎", "titel": "Funkel-Stein", "text": "10 Übungen ohne Fehler." },
+    { "id": "stufe-2", "icon": "🪜", "titel": "Stufe 2", "text": "Stufe 2 erreicht." },
+    { "id": "stufe-3", "icon": "🏔️", "titel": "Stufe 3", "text": "Stufe 3 erreicht." },
+    { "id": "stufe-5", "icon": "🚀", "titel": "Stufe 5", "text": "Stufe 5 erreicht." },
+    { "id": "stufe-6", "icon": "👑", "titel": "Ganz oben", "text": "Stufe 6 erreicht." },
+    { "id": "tage-5", "icon": "📅", "titel": "5 Tage gelesen", "text": "An 5 Tagen geübt." },
+    { "id": "tage-20", "icon": "🌳", "titel": "20 Tage gelesen", "text": "An 20 Tagen geübt." },
+    { "id": "serie-3", "icon": "🔥", "titel": "3 Tage am Stück", "text": "3 Tage hintereinander geübt." },
+    { "id": "serie-7", "icon": "🌈", "titel": "Eine ganze Woche", "text": "7 Tage hintereinander geübt." },
+    { "id": "sterne-50", "icon": "⭐", "titel": "50 Sterne", "text": "50 Sterne gesammelt." },
+    { "id": "sterne-200", "icon": "🌟", "titel": "200 Sterne", "text": "200 Sterne gesammelt." }
+  ]
+}

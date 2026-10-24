@@ -1,0 +1,16 @@
+{
+  "name": "lesehaus",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lese-Lern-App als PWA. package.json wird nur für Tests gebraucht, nicht für die App.",
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "playwright test",
+    "check": "node tools/check-content.mjs && node tools/check-sw.mjs",
+    "icons": "node tools/make-icons.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}

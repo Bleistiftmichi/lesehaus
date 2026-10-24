@@ -1,0 +1,44 @@
+{ "stufe": 5, "geschichten": [
+  { "id": "s5-01", "titel": "Ru|bi und der Ap|fel|baum", "thema": "pferde",
+    "text": "Je|den Mor|gen bringt Ka|ri|na ih|rem Pferd Ru|bi ei|nen Ap|fel mit. Heu|te ist die Obst|scha|le in der Kü|che a|ber leer. „Oh nein“, seufzt Ka|ri|na. „Was mach ich jetzt?“\n\nSie läuft trotz|dem zum Pfer|de|stall. Ru|bi steckt den Kopf aus der Box und schnup|pert an ih|rer lee|ren Ja|cken|ta|sche. Dann wie|hert er lei|se und stupst sie zur Tür.\n\nKa|ri|na folgt ihm ver|wun|dert hi|naus auf die Wei|de. Ganz hin|ten am Zaun steht ein al|ter Ap|fel|baum. Der Wind hat in der Nacht vie|le rot|ba|cki|ge Äp|fel ins Gras ge|weht.\n\n„Du schlau|er Kerl!“, ruft Ka|ri|na und lacht. Sie sam|melt ei|nen gan|zen Korb voll. Den dicks|ten Ap|fel be|kommt na|tür|lich Ru|bi. Der schmatzt zu|frie|den.",
+    "fragen": [
+      { "frage": "Was ist heute leer?", "antworten": ["Der Futtereimer", "Die Obstschale in der Küche", "Rubis Box", "Der Wassertrog"], "richtig": 1, "art": "fakt" },
+      { "frage": "Warum stupst Rubi Karina zur Tür?", "antworten": ["Er will in die Reithalle", "Er hat Angst vor dem Wind", "Er will ihr die Äpfel unter dem Baum zeigen", "Er möchte gestreichelt werden"], "richtig": 2, "art": "warum" },
+      { "frage": "Wer bekommt den dicksten Apfel?", "antworten": ["Rubi", "Karina", "Karinas Mutter", "Das Pony von nebenan"], "richtig": 0, "art": "fakt" }
+    ] },
+  { "id": "s5-02", "titel": "Ko|ko, der höf|li|che Pa|pa|gei", "thema": "tiere",
+    "text": "In der Tier|hand|lung von Herrn Ku|bel|ka wohnt ein grü|ner Pa|pa|gei na|mens Ko|ko. Ko|ko re|det den gan|zen Tag. Am liebs|ten ruft er: „Gu|ten Mor|gen!“ – auch am A|bend. Und manch|mal singt er so|gar ein klei|nes Lied.\n\nEi|nes Ta|ges kommt Til|da mit ih|rer O|ma in den La|den. Sie wol|len Fut|ter für ih|re Wel|len|sit|ti|che kau|fen. Ko|ko legt den Kopf schief und ruft: „Schö|ne Schu|he!“\n\nTil|da schaut ü|ber|rascht auf ih|re neu|en Turn|schu|he mit den Glit|zer|ster|nen. Dann muss sie so laut la|chen, dass so|gar Herr Ku|bel|ka hin|ter sei|ner Kas|se mit|lacht.\n\n„Dan|ke, Ko|ko!“, sagt Til|da. „Du bist der höf|lichs|te Pa|pa|gei der Welt.“ Ko|ko plus|tert sich stolz auf und ant|wor|tet: „Gu|ten Mor|gen!“",
+    "fragen": [
+      { "frage": "Was ruft Koko am liebsten?", "antworten": ["Hallo!", "Guten Morgen!", "Gute Nacht!", "Bis bald!"], "richtig": 1, "art": "fakt" },
+      { "frage": "Was wollen Tilda und ihre Oma kaufen?", "antworten": ["Futter für Wellensittiche", "Einen Papagei", "Neue Turnschuhe", "Ein Vogelhaus"], "richtig": 0, "art": "fakt" },
+      { "frage": "Warum muss Tilda so laut lachen?", "antworten": ["Weil Herr Kubelka einen Witz erzählt", "Weil Koko von der Stange fällt", "Weil die Oma lustig tanzt", "Weil Koko ihre neuen Schuhe lobt"], "richtig": 3, "art": "warum" }
+    ] },
+  { "id": "s5-03", "titel": "Das ge|hei|me Pass|wort", "thema": "freundschaft",
+    "text": "Hin|ter dem Haus von O|le und Ma|xi steht ein Baum|haus. Wer hi|nauf will, muss das ge|hei|me Pass|wort ken|nen. Das Pass|wort ist „Pfann|ku|chen|turm“.\n\nEi|nes Mor|gens zieht ein neu|es Mäd|chen ins Nach|bar|haus. Sie heißt Ju|na und schaut neu|gie|rig zum Baum|haus hoch. Sie trägt ei|ne bun|te Müt|ze und hält ei|nen Fuß|ball un|ter dem Arm. Ma|xi flüs|tert: „Sol|len wir ihr das Pass|wort ver|ra|ten?“\n\nO|le ü|ber|legt. „Ein Pass|wort ist ge|heim“, sagt er. „A|ber ei|ne Freun|din darf es ken|nen.“\n\nAl|so klet|tern die bei|den die Strick|lei|ter hi|nun|ter und fra|gen Ju|na, ob sie mit|spie|len möch|te. Ju|na strahlt. Seit|dem gibt es ein neu|es Pass|wort. Es heißt „Drei|er|ban|de“, und al|le drei fin|den es su|per.",
+    "fragen": [
+      { "frage": "Wie heißt das erste Passwort?", "antworten": ["Dreierbande", "Baumhausbande", "Pfannkuchenturm", "Strickleiter"], "richtig": 2, "art": "fakt" },
+      { "frage": "Warum dürfen Ole und Maxi Juna das Passwort verraten?", "antworten": ["Weil Juna es schon kennt", "Weil eine Freundin es kennen darf", "Weil das Passwort langweilig geworden ist", "Weil ihre Eltern es verlangen"], "richtig": 1, "art": "warum" },
+      { "frage": "Wie heißt das neue Passwort?", "antworten": ["Dreierbande", "Pfannkuchenturm", "Nachbarhaus", "Geheimturm"], "richtig": 0, "art": "fakt" }
+    ] },
+  { "id": "s5-04", "titel": "Mi|los ers|te Reit|stun|de", "thema": "pferde",
+    "text": "Mi|lo steht im Reit|stall und hält sich an sei|nem Helm fest. Das Pferd vor ihm ist rie|sig. Es heißt Ba|ron und hat ein brau|nes Fell mit ei|ner wei|ßen Bles|se.\n\n„Ich glau|be, ich trau mich nicht“, flüs|tert Mi|lo. Die Reit|leh|re|rin Frau Sten|zel lä|chelt. „Ba|ron ist das ge|dul|digs|te Pferd im gan|zen Stall. Gib ihm erst mal ei|ne Ka|rot|te.“\n\nVor|sich|tig hält Mi|lo die Ka|rot|te hin. Ba|ron nimmt sie mit sei|nen wei|chen Lip|pen, ganz sanft und oh|ne zu zwi|cken. Da muss Mi|lo ki|chern.\n\nDann hilft Frau Sten|zel ihm in den Sat|tel. Ba|ron geht lang|sam ei|ne Run|de durch die Reit|hal|le. Mi|lo sitzt ganz ge|ra|de und strahlt ü|ber das gan|ze Ge|sicht. „Nächs|te Wo|che kom|me ich wie|der!“, ruft er.",
+    "fragen": [
+      { "frage": "Was hat Baron auf seinem braunen Fell?", "antworten": ["Schwarze Punkte", "Eine weiße Blesse", "Einen grauen Streifen", "Rote Flecken"], "richtig": 1, "art": "fakt" },
+      { "frage": "Warum muss Milo kichern?", "antworten": ["Weil Frau Stenzel einen Witz macht", "Weil Baron laut niest", "Weil Baron die Karotte ganz sanft nimmt", "Weil sein Helm schief sitzt"], "richtig": 2, "art": "warum" },
+      { "frage": "Wo reitet Milo seine erste Runde?", "antworten": ["Auf der Wiese", "Im Wald", "Am See", "In der Reithalle"], "richtig": 3, "art": "fakt" }
+    ] },
+  { "id": "s5-05", "titel": "Das fre|che Eich|hörn|chen", "thema": "tiere",
+    "text": "Len|ja hat ein Fut|ter|häus|chen an den Kirsch|baum ge|hängt. Sie hat es mit Son|nen|blu|men|ker|nen für die Mei|sen ge|füllt. Je|den Mor|gen schaut sie den Vö|geln beim Pi|cken zu.\n\nDoch am nächs|ten Mor|gen sitzt ein Eich|hörn|chen mit|ten im Häus|chen. Es stopft sich die Ba|cken voll, bis sie ganz rund sind.\n\n„He, das ist für die Vö|gel!“, ruft Len|ja durchs Kü|chen|fens|ter. Das Eich|hörn|chen guckt sie mit glän|zen|den Au|gen an und frisst ein|fach wei|ter. Len|ja muss la|chen.\n\nAm Nach|mit|tag hat sie ei|ne I|dee. Sie stellt ei|ne zwei|te Scha|le auf die Gar|ten|mau|er und legt Ha|sel|nüs|se hi|nein. Schon bald saust das Eich|hörn|chen zur Mau|er. Und die Mei|sen ha|ben ihr Fut|ter|häus|chen end|lich wie|der für sich.",
+    "fragen": [
+      { "frage": "Wo hängt das Futterhäuschen?", "antworten": ["Am Apfelbaum", "Am Küchenfenster", "Am Kirschbaum", "Am Gartenzaun"], "richtig": 2, "art": "fakt" },
+      { "frage": "Warum stellt Lenja eine zweite Schale auf die Mauer?", "antworten": ["Damit die Meisen ihr Futterhäuschen wieder für sich haben", "Weil das Futterhäuschen kaputt ist", "Weil sie das Eichhörnchen fangen will", "Weil ihre Mutter es so möchte"], "richtig": 0, "art": "warum" },
+      { "frage": "Was legt Lenja in die zweite Schale?", "antworten": ["Sonnenblumenkerne", "Apfelstücke", "Brotkrumen", "Haselnüsse"], "richtig": 3, "art": "fakt" }
+    ] },
+  { "id": "s5-06", "titel": "Ein Ku|chen für Frau Hu|ber", "thema": "freundschaft",
+    "text": "Am Sams|tag hat Frau Hu|ber Ge|burts|tag. Sie wohnt im Erd|ge|schoss und gießt im|mer die Blu|men im Hin|ter|hof. Fe|lix und sei|ne Freun|din Nu|ri wol|len ihr ei|ne Freu|de ma|chen.\n\n„Wir ba|cken ei|nen Scho|ko|la|den|ku|chen!“, schlägt Nu|ri vor. In der Kü|che von Fe|lix rüh|ren sie But|ter, Zu|cker, Ei|er und Mehl zu|sam|men. Da|bei lan|det et|was Mehl auf Nu|ris Na|sen|spit|ze. Fe|lix prus|tet los.\n\nDer Ku|chen wird ein biss|chen schief, a|ber er duf|tet herr|lich. Vor|sich|tig tra|gen sie ihn die Trep|pe hi|nun|ter und klin|geln.\n\nFrau Hu|ber macht die Tür auf und schlägt die Hän|de zu|sam|men. „Für mich? Das ist der schöns|te Ku|chen, den ich je be|kom|men ha|be!“ Dann lädt sie die bei|den zu Ka|ka|o und Ku|chen ein.",
+    "fragen": [
+      { "frage": "Wann hat Frau Huber Geburtstag?", "antworten": ["Am Sonntag", "Am Freitag", "Am Samstag", "Am Montag"], "richtig": 2, "art": "fakt" },
+      { "frage": "Warum prustet Felix los?", "antworten": ["Weil der Kuchen umfällt", "Weil Frau Huber klingelt", "Weil die Butter schmilzt", "Weil Nuri Mehl auf der Nasenspitze hat"], "richtig": 3, "art": "warum" },
+      { "frage": "Wozu lädt Frau Huber die beiden ein?", "antworten": ["Zu Kakao und Kuchen", "Zu einem Ausflug", "Zum Blumengießen", "Zu einer Party"], "richtig": 0, "art": "fakt" }
+    ] }
+]}

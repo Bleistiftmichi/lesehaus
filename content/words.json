@@ -1,0 +1,4873 @@
+{
+  "version": 1,
+  "woerter": [
+    {
+      "id": "mama",
+      "text": "Mama",
+      "silben": "Ma-ma",
+      "stufe": 1,
+      "ablenker": [
+        "Mana",
+        "Nama",
+        "Mamo"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "papa",
+      "text": "Papa",
+      "silben": "Pa-pa",
+      "stufe": 1,
+      "ablenker": [
+        "Pala",
+        "Pipa",
+        "Bapa"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "oma",
+      "text": "Oma",
+      "silben": "O-ma",
+      "stufe": 1,
+      "ablenker": [
+        "Opa",
+        "Ona",
+        "Ema"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "opa",
+      "text": "Opa",
+      "silben": "O-pa",
+      "stufe": 1,
+      "ablenker": [
+        "Oma",
+        "Ora",
+        "Apa"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "rose",
+      "text": "Rose",
+      "silben": "Ro-se",
+      "stufe": 1,
+      "ablenker": [
+        "Hose",
+        "Rase",
+        "Rote"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "nase",
+      "text": "Nase",
+      "silben": "Na-se",
+      "stufe": 1,
+      "ablenker": [
+        "Vase",
+        "Hase",
+        "Nabe"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "hose",
+      "text": "Hose",
+      "silben": "Ho-se",
+      "stufe": 1,
+      "ablenker": [
+        "Rose",
+        "Hase",
+        "Dose"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "tube",
+      "text": "Tube",
+      "silben": "Tu-be",
+      "stufe": 1,
+      "ablenker": [
+        "Tuba",
+        "Tüte",
+        "Tume"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "rabe",
+      "text": "Rabe",
+      "silben": "Ra-be",
+      "stufe": 1,
+      "ablenker": [
+        "Rebe",
+        "Rade",
+        "Habe"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kino",
+      "text": "Kino",
+      "silben": "Ki-no",
+      "stufe": 1,
+      "ablenker": [
+        "Kilo",
+        "Kimo",
+        "Kiro"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "sofa",
+      "text": "Sofa",
+      "silben": "So-fa",
+      "stufe": 1,
+      "ablenker": [
+        "Soda",
+        "Sola",
+        "Sefa"
+      ],
+      "themen": [
+        "alltag",
+        "familie"
+      ]
+    },
+    {
+      "id": "moped",
+      "text": "Moped",
+      "silben": "Mo-ped",
+      "stufe": 1,
+      "ablenker": [
+        "Model",
+        "Mopet",
+        "Mobed"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "dose",
+      "text": "Dose",
+      "silben": "Do-se",
+      "stufe": 1,
+      "ablenker": [
+        "Rose",
+        "Hose",
+        "Dase"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "vase",
+      "text": "Vase",
+      "silben": "Va-se",
+      "stufe": 1,
+      "ablenker": [
+        "Nase",
+        "Hase",
+        "Wase"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "hase",
+      "text": "Hase",
+      "silben": "Ha-se",
+      "stufe": 1,
+      "ablenker": [
+        "Hose",
+        "Nase",
+        "Vase"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "lupe",
+      "text": "Lupe",
+      "silben": "Lu-pe",
+      "stufe": 1,
+      "ablenker": [
+        "Luke",
+        "Lupo",
+        "Rupe"
+      ],
+      "themen": [
+        "schule",
+        "natur"
+      ]
+    },
+    {
+      "id": "tafel",
+      "text": "Tafel",
+      "silben": "Ta-fel",
+      "stufe": 1,
+      "ablenker": [
+        "Kafel",
+        "Tadel",
+        "Tafer"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "feder",
+      "text": "Feder",
+      "silben": "Fe-der",
+      "stufe": 1,
+      "ablenker": [
+        "Leder",
+        "Fader",
+        "Weder"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "nagel",
+      "text": "Nagel",
+      "silben": "Na-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Nabel",
+        "Hagel",
+        "Nadel"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "kugel",
+      "text": "Kugel",
+      "silben": "Ku-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Kegel",
+        "Rugel",
+        "Kufel"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "honig",
+      "text": "Honig",
+      "silben": "Ho-nig",
+      "stufe": 1,
+      "ablenker": [
+        "König",
+        "Hanig",
+        "Hosig"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "kamel",
+      "text": "Kamel",
+      "silben": "Ka-mel",
+      "stufe": 1,
+      "ablenker": [
+        "Kamen",
+        "Karel",
+        "Kamil"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "loewe",
+      "text": "Löwe",
+      "silben": "Lö-we",
+      "stufe": 1,
+      "ablenker": [
+        "Löse",
+        "Lowe",
+        "Möwe"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "biber",
+      "text": "Biber",
+      "silben": "Bi-ber",
+      "stufe": 1,
+      "ablenker": [
+        "Biker",
+        "Bibel",
+        "Riber"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "muli",
+      "text": "Muli",
+      "silben": "Mu-li",
+      "stufe": 1,
+      "ablenker": [
+        "Mali",
+        "Mulo",
+        "Juli"
+      ],
+      "themen": [
+        "tiere",
+        "pferde"
+      ]
+    },
+    {
+      "id": "pony",
+      "text": "Pony",
+      "silben": "Po-ny",
+      "stufe": 1,
+      "ablenker": [
+        "Pany",
+        "Pomy",
+        "Posy"
+      ],
+      "themen": [
+        "pferde",
+        "tiere"
+      ]
+    },
+    {
+      "id": "moewe",
+      "text": "Möwe",
+      "silben": "Mö-we",
+      "stufe": 1,
+      "ablenker": [
+        "Löwe",
+        "Möbe",
+        "Mowe"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "tiger",
+      "text": "Tiger",
+      "silben": "Ti-ger",
+      "stufe": 1,
+      "ablenker": [
+        "Tigel",
+        "Tiber",
+        "Tizer"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pudel",
+      "text": "Pudel",
+      "silben": "Pu-del",
+      "stufe": 1,
+      "ablenker": [
+        "Nudel",
+        "Rudel",
+        "Puder"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kater",
+      "text": "Kater",
+      "silben": "Ka-ter",
+      "stufe": 1,
+      "ablenker": [
+        "Vater",
+        "Kader",
+        "Kafer"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "puma",
+      "text": "Puma",
+      "silben": "Pu-ma",
+      "stufe": 1,
+      "ablenker": [
+        "Pama",
+        "Duma",
+        "Pumo"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "lama",
+      "text": "Lama",
+      "silben": "La-ma",
+      "stufe": 1,
+      "ablenker": [
+        "Lima",
+        "Lana",
+        "Lamo"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "esel",
+      "text": "Esel",
+      "silben": "E-sel",
+      "stufe": 1,
+      "ablenker": [
+        "Egel",
+        "Esal",
+        "Ewel"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "igel",
+      "text": "Igel",
+      "silben": "I-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Egel",
+        "Ikel",
+        "Iges"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kueken",
+      "text": "Küken",
+      "silben": "Kü-ken",
+      "stufe": 1,
+      "ablenker": [
+        "Kuchen",
+        "Kükan",
+        "Lüken"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pute",
+      "text": "Pute",
+      "silben": "Pu-te",
+      "stufe": 1,
+      "ablenker": [
+        "Pate",
+        "Tute",
+        "Pule"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "baeren",
+      "text": "Bären",
+      "silben": "Bä-ren",
+      "stufe": 1,
+      "ablenker": [
+        "Baren",
+        "Bäder",
+        "Bänen"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "voegel",
+      "text": "Vögel",
+      "silben": "Vö-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Vogel",
+        "Kögel",
+        "Vösel"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "name",
+      "text": "Name",
+      "silben": "Na-me",
+      "stufe": 1,
+      "ablenker": [
+        "Nase",
+        "Dame",
+        "Nane"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "wagen",
+      "text": "Wagen",
+      "silben": "Wa-gen",
+      "stufe": 1,
+      "ablenker": [
+        "Magen",
+        "Wogen",
+        "Waben"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "boden",
+      "text": "Boden",
+      "silben": "Bo-den",
+      "stufe": 1,
+      "ablenker": [
+        "Boten",
+        "Bogen",
+        "Boder"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "faden",
+      "text": "Faden",
+      "silben": "Fa-den",
+      "stufe": 1,
+      "ablenker": [
+        "Laden",
+        "Fader",
+        "Taden"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "laden",
+      "text": "Laden",
+      "silben": "La-den",
+      "stufe": 1,
+      "ablenker": [
+        "Faden",
+        "Lader",
+        "Raden"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "hafer",
+      "text": "Hafer",
+      "silben": "Ha-fer",
+      "stufe": 1,
+      "ablenker": [
+        "Hafen",
+        "Käfer",
+        "Haber"
+      ],
+      "themen": [
+        "pferde",
+        "essen"
+      ]
+    },
+    {
+      "id": "samen",
+      "text": "Samen",
+      "silben": "Sa-men",
+      "stufe": 1,
+      "ablenker": [
+        "Damen",
+        "Sagen",
+        "Samel"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "rasen",
+      "text": "Rasen",
+      "silben": "Ra-sen",
+      "stufe": 1,
+      "ablenker": [
+        "Hasen",
+        "Nasen",
+        "Rosen"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "besen",
+      "text": "Besen",
+      "silben": "Be-sen",
+      "stufe": 1,
+      "ablenker": [
+        "Beben",
+        "Wesen",
+        "Bosen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "ruebe",
+      "text": "Rübe",
+      "silben": "Rü-be",
+      "stufe": 1,
+      "ablenker": [
+        "Rabe",
+        "Rüde",
+        "Rüge"
+      ],
+      "themen": [
+        "essen",
+        "pferde"
+      ]
+    },
+    {
+      "id": "hufe",
+      "text": "Hufe",
+      "silben": "Hu-fe",
+      "stufe": 1,
+      "ablenker": [
+        "Hefe",
+        "Hupe",
+        "Hüfe"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "zuegel",
+      "text": "Zügel",
+      "silben": "Zü-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Ziegel",
+        "Hügel",
+        "Zögel"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "huegel",
+      "text": "Hügel",
+      "silben": "Hü-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Zügel",
+        "Bügel",
+        "Hagel"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "paket",
+      "text": "Paket",
+      "silben": "Pa-ket",
+      "stufe": 1,
+      "ablenker": [
+        "Pakel",
+        "Pajet",
+        "Parket"
+      ],
+      "themen": [
+        "freundschaft",
+        "alltag"
+      ]
+    },
+    {
+      "id": "nadel",
+      "text": "Nadel",
+      "silben": "Na-del",
+      "stufe": 1,
+      "ablenker": [
+        "Nudel",
+        "Nabel",
+        "Nagel"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "gabel",
+      "text": "Gabel",
+      "silben": "Ga-bel",
+      "stufe": 1,
+      "ablenker": [
+        "Kabel",
+        "Nabel",
+        "Gebel"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "regen",
+      "text": "Regen",
+      "silben": "Re-gen",
+      "stufe": 1,
+      "ablenker": [
+        "Segen",
+        "Reden",
+        "Ragen"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "segel",
+      "text": "Segel",
+      "silben": "Se-gel",
+      "stufe": 1,
+      "ablenker": [
+        "Regel",
+        "Kegel",
+        "Siegel"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "musik",
+      "text": "Musik",
+      "silben": "Mu-sik",
+      "stufe": 1,
+      "ablenker": [
+        "Mosik",
+        "Musil",
+        "Mudik"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "motor",
+      "text": "Motor",
+      "silben": "Mo-tor",
+      "stufe": 1,
+      "ablenker": [
+        "Mator",
+        "Rotor",
+        "Moter"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "juli",
+      "text": "Juli",
+      "silben": "Ju-li",
+      "stufe": 1,
+      "ablenker": [
+        "Juni",
+        "Muli",
+        "Jali"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "salat",
+      "text": "Salat",
+      "silben": "Sa-lat",
+      "stufe": 1,
+      "ablenker": [
+        "Solat",
+        "Salut",
+        "Galat"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "kiwi",
+      "text": "Kiwi",
+      "silben": "Ki-wi",
+      "stufe": 1,
+      "ablenker": [
+        "Kiri",
+        "Kawi",
+        "Biwi"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "kanu",
+      "text": "Kanu",
+      "silben": "Ka-nu",
+      "stufe": 1,
+      "ablenker": [
+        "Kana",
+        "Kamu",
+        "Tanu"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "maler",
+      "text": "Maler",
+      "silben": "Ma-ler",
+      "stufe": 1,
+      "ablenker": [
+        "Taler",
+        "Maser",
+        "Malen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "bude",
+      "text": "Bude",
+      "silben": "Bu-de",
+      "stufe": 1,
+      "ablenker": [
+        "Bube",
+        "Bode",
+        "Bute"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "menue",
+      "text": "Menü",
+      "silben": "Me-nü",
+      "stufe": 1,
+      "ablenker": [
+        "Menu",
+        "Lenü",
+        "Medü"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "foto",
+      "text": "Foto",
+      "silben": "Fo-to",
+      "stufe": 1,
+      "ablenker": [
+        "Fote",
+        "Koto",
+        "Folo"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "duese",
+      "text": "Düse",
+      "silben": "Dü-se",
+      "stufe": 1,
+      "ablenker": [
+        "Dose",
+        "Düne",
+        "Düte"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "kaese",
+      "text": "Käse",
+      "silben": "Kä-se",
+      "stufe": 1,
+      "ablenker": [
+        "Kase",
+        "Käfe",
+        "Väse"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "rosa",
+      "text": "rosa",
+      "silben": "ro-sa",
+      "stufe": 1,
+      "ablenker": [
+        "rose",
+        "rota",
+        "rasa"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "lila",
+      "text": "lila",
+      "silben": "li-la",
+      "stufe": 1,
+      "ablenker": [
+        "lile",
+        "lola",
+        "lima"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "muede",
+      "text": "müde",
+      "silben": "mü-de",
+      "stufe": 1,
+      "ablenker": [
+        "mude",
+        "müte",
+        "wüde"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "mutig",
+      "text": "mutig",
+      "silben": "mu-tig",
+      "stufe": 1,
+      "ablenker": [
+        "matig",
+        "mutip",
+        "hutig"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "malen",
+      "text": "malen",
+      "silben": "ma-len",
+      "stufe": 1,
+      "ablenker": [
+        "mahlen",
+        "molen",
+        "maler"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "lesen",
+      "text": "lesen",
+      "silben": "le-sen",
+      "stufe": 1,
+      "ablenker": [
+        "losen",
+        "lösen",
+        "leben"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "rufen",
+      "text": "rufen",
+      "silben": "ru-fen",
+      "stufe": 1,
+      "ablenker": [
+        "rifen",
+        "ruhen",
+        "rufer"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "reden",
+      "text": "reden",
+      "silben": "re-den",
+      "stufe": 1,
+      "ablenker": [
+        "raden",
+        "regen",
+        "roden"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "baden",
+      "text": "baden",
+      "silben": "ba-den",
+      "stufe": 1,
+      "ablenker": [
+        "laden",
+        "beden",
+        "baten"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "sagen",
+      "text": "sagen",
+      "silben": "sa-gen",
+      "stufe": 1,
+      "ablenker": [
+        "sägen",
+        "sogen",
+        "lagen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "loben",
+      "text": "loben",
+      "silben": "lo-ben",
+      "stufe": 1,
+      "ablenker": [
+        "leben",
+        "oben",
+        "toben"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "legen",
+      "text": "legen",
+      "silben": "le-gen",
+      "stufe": 1,
+      "ablenker": [
+        "lagen",
+        "leben",
+        "regen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "fegen",
+      "text": "fegen",
+      "silben": "fe-gen",
+      "stufe": 1,
+      "ablenker": [
+        "legen",
+        "wegen",
+        "fügen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "holen",
+      "text": "holen",
+      "silben": "ho-len",
+      "stufe": 1,
+      "ablenker": [
+        "halen",
+        "hoben",
+        "rolen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "raten",
+      "text": "raten",
+      "silben": "ra-ten",
+      "stufe": 1,
+      "ablenker": [
+        "baten",
+        "rasen",
+        "roten"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "geben",
+      "text": "geben",
+      "silben": "ge-ben",
+      "stufe": 1,
+      "ablenker": [
+        "heben",
+        "gehen",
+        "geber"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "leben",
+      "text": "leben",
+      "silben": "le-ben",
+      "stufe": 1,
+      "ablenker": [
+        "loben",
+        "heben",
+        "lesen"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "hoeren",
+      "text": "hören",
+      "silben": "hö-ren",
+      "stufe": 1,
+      "ablenker": [
+        "hörer",
+        "höben",
+        "hosen"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "saegen",
+      "text": "sägen",
+      "silben": "sä-gen",
+      "stufe": 1,
+      "ablenker": [
+        "sagen",
+        "sägel",
+        "legen"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "haben",
+      "text": "haben",
+      "silben": "ha-ben",
+      "stufe": 1,
+      "ablenker": [
+        "hagen",
+        "raben",
+        "heben"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "ueben",
+      "text": "üben",
+      "silben": "ü-ben",
+      "stufe": 1,
+      "ablenker": [
+        "oben",
+        "uben",
+        "üsen"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "banane",
+      "text": "Banane",
+      "silben": "Ba-na-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Bahne",
+        "Banale",
+        "Sahne"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "tomate",
+      "text": "Tomate",
+      "silben": "To-ma-te",
+      "stufe": 2,
+      "ablenker": [
+        "Tamate",
+        "Tomale",
+        "Tonate"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "melone",
+      "text": "Melone",
+      "silben": "Me-lo-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Malone",
+        "Melane",
+        "Melome"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "salami",
+      "text": "Salami",
+      "silben": "Sa-la-mi",
+      "stufe": 2,
+      "ablenker": [
+        "Salomi",
+        "Salama",
+        "Kalami"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "kamera",
+      "text": "Kamera",
+      "silben": "Ka-me-ra",
+      "stufe": 2,
+      "ablenker": [
+        "Kamara",
+        "Kamela",
+        "Komera"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "radio",
+      "text": "Radio",
+      "silben": "Ra-di-o",
+      "stufe": 2,
+      "ablenker": [
+        "Radia",
+        "Ladio",
+        "Rodio"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "koala",
+      "text": "Koala",
+      "silben": "Ko-a-la",
+      "stufe": 2,
+      "ablenker": [
+        "Kaola",
+        "Koale",
+        "Kuala"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pavian",
+      "text": "Pavian",
+      "silben": "Pa-vi-an",
+      "stufe": 2,
+      "ablenker": [
+        "Pavion",
+        "Ravian",
+        "Paviam"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "leguan",
+      "text": "Leguan",
+      "silben": "Le-gu-an",
+      "stufe": 2,
+      "ablenker": [
+        "Legian",
+        "Leguam",
+        "Liguan"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "domino",
+      "text": "Domino",
+      "silben": "Do-mi-no",
+      "stufe": 2,
+      "ablenker": [
+        "Damino",
+        "Domilo",
+        "Romino"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "kakao",
+      "text": "Kakao",
+      "silben": "Ka-ka-o",
+      "stufe": 2,
+      "ablenker": [
+        "Kakau",
+        "Kokao",
+        "Kalao"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "rosine",
+      "text": "Rosine",
+      "silben": "Ro-si-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Rosane",
+        "Rosime",
+        "Kosine"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "piraten",
+      "text": "Piraten",
+      "silben": "Pi-ra-ten",
+      "stufe": 2,
+      "ablenker": [
+        "Paraten",
+        "Piroten",
+        "Pilaten"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "kimono",
+      "text": "Kimono",
+      "silben": "Ki-mo-no",
+      "stufe": 2,
+      "ablenker": [
+        "Kimana",
+        "Kimeno",
+        "Limono"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "telefon",
+      "text": "Telefon",
+      "silben": "Te-le-fon",
+      "stufe": 2,
+      "ablenker": [
+        "Telefan",
+        "Delefon",
+        "Telefom"
+      ],
+      "themen": [
+        "alltag",
+        "familie"
+      ]
+    },
+    {
+      "id": "museum",
+      "text": "Museum",
+      "silben": "Mu-se-um",
+      "stufe": 2,
+      "ablenker": [
+        "Musaum",
+        "Moseum",
+        "Museun"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "rakete",
+      "text": "Rakete",
+      "silben": "Ra-ke-te",
+      "stufe": 2,
+      "ablenker": [
+        "Rakate",
+        "Lakete",
+        "Rokete"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "ozean",
+      "text": "Ozean",
+      "silben": "O-ze-an",
+      "stufe": 2,
+      "ablenker": [
+        "Ozian",
+        "Ozeal",
+        "Ogean"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "papaya",
+      "text": "Papaya",
+      "silben": "Pa-pa-ya",
+      "stufe": 2,
+      "ablenker": [
+        "Papaja",
+        "Popaya",
+        "Papama"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "ananas",
+      "text": "Ananas",
+      "silben": "A-na-nas",
+      "stufe": 2,
+      "ablenker": [
+        "Ananes",
+        "Amanas",
+        "Ananus"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "roboter",
+      "text": "Roboter",
+      "silben": "Ro-bo-ter",
+      "stufe": 2,
+      "ablenker": [
+        "Robater",
+        "Doboter",
+        "Roboten"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "tigerin",
+      "text": "Tigerin",
+      "silben": "Ti-ge-rin",
+      "stufe": 2,
+      "ablenker": [
+        "Tigerim",
+        "Tegerin",
+        "Tigeran"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "eselin",
+      "text": "Eselin",
+      "silben": "E-se-lin",
+      "stufe": 2,
+      "ablenker": [
+        "Esolin",
+        "Eselen",
+        "Eselim"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "lupine",
+      "text": "Lupine",
+      "silben": "Lu-pi-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Lupane",
+        "Rupine",
+        "Lupino"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "hyaene",
+      "text": "Hyäne",
+      "silben": "Hy-ä-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Hyäme",
+        "Hyane",
+        "Kyäne"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pelikan",
+      "text": "Pelikan",
+      "silben": "Pe-li-kan",
+      "stufe": 2,
+      "ablenker": [
+        "Pelikam",
+        "Pelikon",
+        "Belikan"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kapitaen",
+      "text": "Kapitän",
+      "silben": "Ka-pi-tän",
+      "stufe": 2,
+      "ablenker": [
+        "Kapitan",
+        "Kapitün",
+        "Kapetän"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "minute",
+      "text": "Minute",
+      "silben": "Mi-nu-te",
+      "stufe": 2,
+      "ablenker": [
+        "Minuta",
+        "Mitute",
+        "Monute"
+      ],
+      "themen": [
+        "schule",
+        "alltag"
+      ]
+    },
+    {
+      "id": "komete",
+      "text": "Komete",
+      "silben": "Ko-me-te",
+      "stufe": 2,
+      "ablenker": [
+        "Kamete",
+        "Komeda",
+        "Konete"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "karibu",
+      "text": "Karibu",
+      "silben": "Ka-ri-bu",
+      "stufe": 2,
+      "ablenker": [
+        "Karibo",
+        "Kalibu",
+        "Koribu"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kapuze",
+      "text": "Kapuze",
+      "silben": "Ka-pu-ze",
+      "stufe": 2,
+      "ablenker": [
+        "Kopuze",
+        "Kapune",
+        "Kapaze"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "sirene",
+      "text": "Sirene",
+      "silben": "Si-re-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Serene",
+        "Sirane",
+        "Sirena"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "kakadu",
+      "text": "Kakadu",
+      "silben": "Ka-ka-du",
+      "stufe": 2,
+      "ablenker": [
+        "Kakadi",
+        "Kokadu",
+        "Kakabu"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "okapi",
+      "text": "Okapi",
+      "silben": "O-ka-pi",
+      "stufe": 2,
+      "ablenker": [
+        "Okapo",
+        "Akapi",
+        "Okami"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "alpaka",
+      "text": "Alpaka",
+      "silben": "Al-pa-ka",
+      "stufe": 2,
+      "ablenker": [
+        "Alpaga",
+        "Alpako",
+        "Elpaka"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kamele",
+      "text": "Kamele",
+      "silben": "Ka-me-le",
+      "stufe": 2,
+      "ablenker": [
+        "Kamale",
+        "Kemele",
+        "Kamere"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "rodeo",
+      "text": "Rodeo",
+      "silben": "Ro-de-o",
+      "stufe": 2,
+      "ablenker": [
+        "Radeo",
+        "Rodea",
+        "Rodio"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "bikini",
+      "text": "Bikini",
+      "silben": "Bi-ki-ni",
+      "stufe": 2,
+      "ablenker": [
+        "Bikimi",
+        "Bakini",
+        "Bikina"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "pyjama",
+      "text": "Pyjama",
+      "silben": "Py-ja-ma",
+      "stufe": 2,
+      "ablenker": [
+        "Pyjamo",
+        "Pajama",
+        "Pyjana"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "piloten",
+      "text": "Piloten",
+      "silben": "Pi-lo-ten",
+      "stufe": 2,
+      "ablenker": [
+        "Pilaten",
+        "Pilotin",
+        "Kiloten"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "kabine",
+      "text": "Kabine",
+      "silben": "Ka-bi-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Kabina",
+        "Kubine",
+        "Kapine"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "meteor",
+      "text": "Meteor",
+      "silben": "Me-te-or",
+      "stufe": 2,
+      "ablenker": [
+        "Meteur",
+        "Metior",
+        "Moteor"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "folie",
+      "text": "Folie",
+      "silben": "Fo-li-e",
+      "stufe": 2,
+      "ablenker": [
+        "Folia",
+        "Felie",
+        "Folio"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "linie",
+      "text": "Linie",
+      "silben": "Li-ni-e",
+      "stufe": 2,
+      "ablenker": [
+        "Linia",
+        "Lirie",
+        "Kinie"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "mosaik",
+      "text": "Mosaik",
+      "silben": "Mo-sa-ik",
+      "stufe": 2,
+      "ablenker": [
+        "Mosaek",
+        "Musaik",
+        "Mosaok"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "bonobo",
+      "text": "Bonobo",
+      "silben": "Bo-no-bo",
+      "stufe": 2,
+      "ablenker": [
+        "Bonobu",
+        "Banobo",
+        "Bomobo"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "mikado",
+      "text": "Mikado",
+      "silben": "Mi-ka-do",
+      "stufe": 2,
+      "ablenker": [
+        "Mikada",
+        "Mekado",
+        "Mitado"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "pedale",
+      "text": "Pedale",
+      "silben": "Pe-da-le",
+      "stufe": 2,
+      "ablenker": [
+        "Pedalo",
+        "Pedane",
+        "Medale"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "safari",
+      "text": "Safari",
+      "silben": "Sa-fa-ri",
+      "stufe": 2,
+      "ablenker": [
+        "Safara",
+        "Sofari",
+        "Safiri"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "karate",
+      "text": "Karate",
+      "silben": "Ka-ra-te",
+      "stufe": 2,
+      "ablenker": [
+        "Karafe",
+        "Kerate",
+        "Karato"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "piano",
+      "text": "Piano",
+      "silben": "Pi-a-no",
+      "stufe": 2,
+      "ablenker": [
+        "Piana",
+        "Piamo",
+        "Biano"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "leopard",
+      "text": "Leopard",
+      "silben": "Le-o-pard",
+      "stufe": 2,
+      "ablenker": [
+        "Leopart",
+        "Liopard",
+        "Leobard"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "ozelot",
+      "text": "Ozelot",
+      "silben": "O-ze-lot",
+      "stufe": 2,
+      "ablenker": [
+        "Ozelat",
+        "Ozelet",
+        "Ocelot"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kojote",
+      "text": "Kojote",
+      "silben": "Ko-jo-te",
+      "stufe": 2,
+      "ablenker": [
+        "Kojate",
+        "Kojoto",
+        "Kajote"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "araber",
+      "text": "Araber",
+      "silben": "A-ra-ber",
+      "stufe": 2,
+      "ablenker": [
+        "Arader",
+        "Aruber",
+        "Araben"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "kamerad",
+      "text": "Kamerad",
+      "silben": "Ka-me-rad",
+      "stufe": 2,
+      "ablenker": [
+        "Kamerat",
+        "Kameral",
+        "Komerad"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "kapitel",
+      "text": "Kapitel",
+      "silben": "Ka-pi-tel",
+      "stufe": 2,
+      "ablenker": [
+        "Kapitän",
+        "Kapitol",
+        "Kapital"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "lineal",
+      "text": "Lineal",
+      "silben": "Li-ne-al",
+      "stufe": 2,
+      "ablenker": [
+        "Lineol",
+        "Linear",
+        "Kineal"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "holunder",
+      "text": "Holunder",
+      "silben": "Ho-lun-der",
+      "stufe": 2,
+      "ablenker": [
+        "Holunter",
+        "Halunder",
+        "Hulunder"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "gemuese",
+      "text": "Gemüse",
+      "silben": "Ge-mü-se",
+      "stufe": 2,
+      "ablenker": [
+        "Gemüde",
+        "Gemöse",
+        "Gelüse"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "olive",
+      "text": "Olive",
+      "silben": "O-li-ve",
+      "stufe": 2,
+      "ablenker": [
+        "Oliva",
+        "Olire",
+        "Elive"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "laterne",
+      "text": "Laterne",
+      "silben": "La-ter-ne",
+      "stufe": 2,
+      "ablenker": [
+        "Laterna",
+        "Latenne",
+        "Taterne"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "leserin",
+      "text": "Leserin",
+      "silben": "Le-se-rin",
+      "stufe": 2,
+      "ablenker": [
+        "Leserun",
+        "Laserin",
+        "Lesarin"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "malerin",
+      "text": "Malerin",
+      "silben": "Ma-le-rin",
+      "stufe": 2,
+      "ablenker": [
+        "Malerim",
+        "Molerin",
+        "Malarin"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "ferien",
+      "text": "Ferien",
+      "silben": "Fe-ri-en",
+      "stufe": 2,
+      "ablenker": [
+        "Ferian",
+        "Forien",
+        "Fenien"
+      ],
+      "themen": [
+        "alltag",
+        "familie"
+      ]
+    },
+    {
+      "id": "horizont",
+      "text": "Horizont",
+      "silben": "Ho-ri-zont",
+      "stufe": 2,
+      "ablenker": [
+        "Horizant",
+        "Horozont",
+        "Horizonz"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "beraten",
+      "text": "beraten",
+      "silben": "be-ra-ten",
+      "stufe": 2,
+      "ablenker": [
+        "beraden",
+        "bereten",
+        "geraten"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "beloben",
+      "text": "beloben",
+      "silben": "be-lo-ben",
+      "stufe": 2,
+      "ablenker": [
+        "beleben",
+        "betoben",
+        "belaben"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "bemalen",
+      "text": "bemalen",
+      "silben": "be-ma-len",
+      "stufe": 2,
+      "ablenker": [
+        "bemahlen",
+        "bemolen",
+        "gemalen"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "besuchen",
+      "text": "besuchen",
+      "silben": "be-su-chen",
+      "stufe": 2,
+      "ablenker": [
+        "besichen",
+        "besuche",
+        "gesuchen"
+      ],
+      "themen": [
+        "freundschaft",
+        "familie"
+      ]
+    },
+    {
+      "id": "gerade",
+      "text": "gerade",
+      "silben": "ge-ra-de",
+      "stufe": 2,
+      "ablenker": [
+        "gerate",
+        "garade",
+        "gerode"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "betonen",
+      "text": "betonen",
+      "silben": "be-to-nen",
+      "stufe": 2,
+      "ablenker": [
+        "betonten",
+        "belonen",
+        "bedonen"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "bewegen",
+      "text": "bewegen",
+      "silben": "be-we-gen",
+      "stufe": 2,
+      "ablenker": [
+        "beweben",
+        "bewegte",
+        "belegen"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "lebendig",
+      "text": "lebendig",
+      "silben": "le-ben-dig",
+      "stufe": 2,
+      "ablenker": [
+        "lebandig",
+        "lebendir",
+        "lebentig"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "gewinnen",
+      "text": "gewinnen",
+      "silben": "ge-win-nen",
+      "stufe": 2,
+      "ablenker": [
+        "gewinnem",
+        "gewonnen",
+        "gerinnen"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "pferde",
+      "text": "Pferde",
+      "silben": "Pfer-de",
+      "stufe": 3,
+      "ablenker": [
+        "Herde",
+        "Pferle",
+        "Pfarde"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "stute",
+      "text": "Stute",
+      "silben": "Stu-te",
+      "stufe": 3,
+      "ablenker": [
+        "Stufe",
+        "Stube",
+        "Stuke"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "fohlen",
+      "text": "Fohlen",
+      "silben": "Foh-len",
+      "stufe": 3,
+      "ablenker": [
+        "Fahlen",
+        "Fehlen",
+        "Fohlem"
+      ],
+      "themen": [
+        "pferde",
+        "tiere"
+      ]
+    },
+    {
+      "id": "reiter",
+      "text": "Reiter",
+      "silben": "Rei-ter",
+      "stufe": 3,
+      "ablenker": [
+        "Reifer",
+        "Reiher",
+        "Leiter"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "sattel",
+      "text": "Sattel",
+      "silben": "Sat-tel",
+      "stufe": 3,
+      "ablenker": [
+        "Settel",
+        "Sattem",
+        "Kattel"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "maehne",
+      "text": "Mähne",
+      "silben": "Mäh-ne",
+      "stufe": 3,
+      "ablenker": [
+        "Mähre",
+        "Möhne",
+        "Mahne"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "koppel",
+      "text": "Koppel",
+      "silben": "Kop-pel",
+      "stufe": 3,
+      "ablenker": [
+        "Kuppel",
+        "Kappel",
+        "Koppen"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "trense",
+      "text": "Trense",
+      "silben": "Tren-se",
+      "stufe": 3,
+      "ablenker": [
+        "Tresse",
+        "Trenne",
+        "Brense"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "striegel",
+      "text": "Striegel",
+      "silben": "Strie-gel",
+      "stufe": 3,
+      "ablenker": [
+        "Spiegel",
+        "Stiegel",
+        "Striezel"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "galopp",
+      "text": "Galopp",
+      "silben": "Ga-lopp",
+      "stufe": 3,
+      "ablenker": [
+        "Galapp",
+        "Galopo",
+        "Galupp"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "schimmel",
+      "text": "Schimmel",
+      "silben": "Schim-mel",
+      "stufe": 3,
+      "ablenker": [
+        "Schemmel",
+        "Schimpel",
+        "Schimmer"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "rappe",
+      "text": "Rappe",
+      "silben": "Rap-pe",
+      "stufe": 3,
+      "ablenker": [
+        "Raupe",
+        "Rampe",
+        "Rippe"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "moehre",
+      "text": "Möhre",
+      "silben": "Möh-re",
+      "stufe": 3,
+      "ablenker": [
+        "Mähre",
+        "Möhne",
+        "Röhre"
+      ],
+      "themen": [
+        "essen",
+        "pferde"
+      ]
+    },
+    {
+      "id": "apfel",
+      "text": "Apfel",
+      "silben": "Ap-fel",
+      "stufe": 3,
+      "ablenker": [
+        "Afpel",
+        "Apfal",
+        "Opfel"
+      ],
+      "themen": [
+        "essen",
+        "pferde"
+      ]
+    },
+    {
+      "id": "katze",
+      "text": "Katze",
+      "silben": "Kat-ze",
+      "stufe": 3,
+      "ablenker": [
+        "Tatze",
+        "Kanze",
+        "Katte"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "maeuse",
+      "text": "Mäuse",
+      "silben": "Mäu-se",
+      "stufe": 3,
+      "ablenker": [
+        "Mäule",
+        "Meuse",
+        "Mause"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "ziege",
+      "text": "Ziege",
+      "silben": "Zie-ge",
+      "stufe": 3,
+      "ablenker": [
+        "Wiege",
+        "Liege",
+        "Zeige"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "biene",
+      "text": "Biene",
+      "silben": "Bie-ne",
+      "stufe": 3,
+      "ablenker": [
+        "Birne",
+        "Beine",
+        "Diene"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "fische",
+      "text": "Fische",
+      "silben": "Fi-sche",
+      "stufe": 3,
+      "ablenker": [
+        "Tische",
+        "Wische",
+        "Fasche"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "schnecke",
+      "text": "Schnecke",
+      "silben": "Schne-cke",
+      "stufe": 3,
+      "ablenker": [
+        "Schnicke",
+        "Schmecke",
+        "Schnacke"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "hamster",
+      "text": "Hamster",
+      "silben": "Hams-ter",
+      "stufe": 3,
+      "ablenker": [
+        "Hamsten",
+        "Hampter",
+        "Hamstar"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "ente",
+      "text": "Ente",
+      "silben": "En-te",
+      "stufe": 3,
+      "ablenker": [
+        "Ernte",
+        "Ende",
+        "Ante"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "welpe",
+      "text": "Welpe",
+      "silben": "Wel-pe",
+      "stufe": 3,
+      "ablenker": [
+        "Welle",
+        "Wespe",
+        "Walpe"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pinguin",
+      "text": "Pinguin",
+      "silben": "Pin-gu-in",
+      "stufe": 3,
+      "ablenker": [
+        "Pinguen",
+        "Pingiun",
+        "Ringuin"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kaenguru",
+      "text": "Känguru",
+      "silben": "Kän-gu-ru",
+      "stufe": 3,
+      "ablenker": [
+        "Kangura",
+        "Kängoru",
+        "Känguro"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "zebra",
+      "text": "Zebra",
+      "silben": "Ze-bra",
+      "stufe": 3,
+      "ablenker": [
+        "Zobra",
+        "Zebre",
+        "Kebra"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "papagei",
+      "text": "Papagei",
+      "silben": "Pa-pa-gei",
+      "stufe": 3,
+      "ablenker": [
+        "Papagai",
+        "Pagapei",
+        "Papabei"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "delfin",
+      "text": "Delfin",
+      "silben": "Del-fin",
+      "stufe": 3,
+      "ablenker": [
+        "Delfun",
+        "Dalfin",
+        "Telfin"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "giraffe",
+      "text": "Giraffe",
+      "silben": "Gi-raf-fe",
+      "stufe": 3,
+      "ablenker": [
+        "Giraffo",
+        "Geraffe",
+        "Girasse"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "affe",
+      "text": "Affe",
+      "silben": "Af-fe",
+      "stufe": 3,
+      "ablenker": [
+        "Asse",
+        "Effe",
+        "Affen"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "schwalbe",
+      "text": "Schwalbe",
+      "silben": "Schwal-be",
+      "stufe": 3,
+      "ablenker": [
+        "Schwalle",
+        "Schwolbe",
+        "Schwabe"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "raupe",
+      "text": "Raupe",
+      "silben": "Rau-pe",
+      "stufe": 3,
+      "ablenker": [
+        "Rappe",
+        "Raube",
+        "Laupe"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "freunde",
+      "text": "Freunde",
+      "silben": "Freun-de",
+      "stufe": 3,
+      "ablenker": [
+        "Freude",
+        "Fremde",
+        "Freunte"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "freundin",
+      "text": "Freundin",
+      "silben": "Freun-din",
+      "stufe": 3,
+      "ablenker": [
+        "Freunden",
+        "Fraundin",
+        "Freudin"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "geschenk",
+      "text": "Geschenk",
+      "silben": "Ge-schenk",
+      "stufe": 3,
+      "ablenker": [
+        "Geschank",
+        "Geschenke",
+        "Gescheck"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "geheimnis",
+      "text": "Geheimnis",
+      "silben": "Ge-heim-nis",
+      "stufe": 3,
+      "ablenker": [
+        "Geheimis",
+        "Gebeimnis",
+        "Geheimnus"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "briefe",
+      "text": "Briefe",
+      "silben": "Brie-fe",
+      "stufe": 3,
+      "ablenker": [
+        "Briese",
+        "Brieke",
+        "Briefo"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "einladung",
+      "text": "Einladung",
+      "silben": "Ein-la-dung",
+      "stufe": 3,
+      "ablenker": [
+        "Einladang",
+        "Einlodung",
+        "Einlagung"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "vertrauen",
+      "text": "Vertrauen",
+      "silben": "Ver-trau-en",
+      "stufe": 3,
+      "ablenker": [
+        "Verbrauen",
+        "Vertauen",
+        "Vertraum"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "schaukel",
+      "text": "Schaukel",
+      "silben": "Schau-kel",
+      "stufe": 3,
+      "ablenker": [
+        "Schaufel",
+        "Schaukal",
+        "Schankel"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "drachen",
+      "text": "Drachen",
+      "silben": "Dra-chen",
+      "stufe": 3,
+      "ablenker": [
+        "Rachen",
+        "Dracken",
+        "Drochen"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "blumen",
+      "text": "Blumen",
+      "silben": "Blu-men",
+      "stufe": 3,
+      "ablenker": [
+        "Blusen",
+        "Blamen",
+        "Plumen"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "baeume",
+      "text": "Bäume",
+      "silben": "Bäu-me",
+      "stufe": 3,
+      "ablenker": [
+        "Räume",
+        "Säume",
+        "Bäuke"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "schraube",
+      "text": "Schraube",
+      "silben": "Schrau-be",
+      "stufe": 3,
+      "ablenker": [
+        "Schraupe",
+        "Schraufe",
+        "Schreube"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "pflaume",
+      "text": "Pflaume",
+      "silben": "Pflau-me",
+      "stufe": 3,
+      "ablenker": [
+        "Pflanme",
+        "Flaume",
+        "Pfraume"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "spiegel",
+      "text": "Spiegel",
+      "silben": "Spie-gel",
+      "stufe": 3,
+      "ablenker": [
+        "Striegel",
+        "Spiegal",
+        "Speigel"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "knochen",
+      "text": "Knochen",
+      "silben": "Kno-chen",
+      "stufe": 3,
+      "ablenker": [
+        "Knachen",
+        "Kochen",
+        "Knoten"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "schule",
+      "text": "Schule",
+      "silben": "Schu-le",
+      "stufe": 3,
+      "ablenker": [
+        "Schale",
+        "Schuhe",
+        "Spule"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "kreide",
+      "text": "Kreide",
+      "silben": "Krei-de",
+      "stufe": 3,
+      "ablenker": [
+        "Kreise",
+        "Kleide",
+        "Kreite"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "buecher",
+      "text": "Bücher",
+      "silben": "Bü-cher",
+      "stufe": 3,
+      "ablenker": [
+        "Becher",
+        "Bürcher",
+        "Fücher"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "bruecke",
+      "text": "Brücke",
+      "silben": "Brü-cke",
+      "stufe": 3,
+      "ablenker": [
+        "Bücke",
+        "Brocke",
+        "Krücke"
+      ],
+      "themen": [
+        "natur",
+        "alltag"
+      ]
+    },
+    {
+      "id": "birne",
+      "text": "Birne",
+      "silben": "Bir-ne",
+      "stufe": 3,
+      "ablenker": [
+        "Biene",
+        "Birke",
+        "Bürne"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "broetchen",
+      "text": "Brötchen",
+      "silben": "Bröt-chen",
+      "stufe": 3,
+      "ablenker": [
+        "Brätchen",
+        "Brotchen",
+        "Brötchem"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "kekse",
+      "text": "Kekse",
+      "silben": "Kek-se",
+      "stufe": 3,
+      "ablenker": [
+        "Kerse",
+        "Keske",
+        "Kexe"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "spielen",
+      "text": "spielen",
+      "silben": "spie-len",
+      "stufe": 3,
+      "ablenker": [
+        "spülen",
+        "spalen",
+        "speilen"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "teilen",
+      "text": "teilen",
+      "silben": "tei-len",
+      "stufe": 3,
+      "ablenker": [
+        "heilen",
+        "peilen",
+        "tailen"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "lachen",
+      "text": "lachen",
+      "silben": "la-chen",
+      "stufe": 3,
+      "ablenker": [
+        "machen",
+        "wachen",
+        "lochen"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "helfen",
+      "text": "helfen",
+      "silben": "hel-fen",
+      "stufe": 3,
+      "ablenker": [
+        "halfen",
+        "helfer",
+        "welfen"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "troesten",
+      "text": "trösten",
+      "silben": "trös-ten",
+      "stufe": 3,
+      "ablenker": [
+        "rösten",
+        "trösen",
+        "trosten"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "schenken",
+      "text": "schenken",
+      "silben": "schen-ken",
+      "stufe": 3,
+      "ablenker": [
+        "schunken",
+        "schwenken",
+        "schenkon"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "kuscheln",
+      "text": "kuscheln",
+      "silben": "ku-scheln",
+      "stufe": 3,
+      "ablenker": [
+        "kuschen",
+        "kascheln",
+        "kurscheln"
+      ],
+      "themen": [
+        "freundschaft",
+        "tiere"
+      ]
+    },
+    {
+      "id": "winken",
+      "text": "winken",
+      "silben": "win-ken",
+      "stufe": 3,
+      "ablenker": [
+        "wanken",
+        "sinken",
+        "wenken"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "streicheln",
+      "text": "streicheln",
+      "silben": "strei-cheln",
+      "stufe": 3,
+      "ablenker": [
+        "streichen",
+        "steicheln",
+        "strecheln"
+      ],
+      "themen": [
+        "pferde",
+        "tiere"
+      ]
+    },
+    {
+      "id": "traben",
+      "text": "traben",
+      "silben": "tra-ben",
+      "stufe": 3,
+      "ablenker": [
+        "graben",
+        "trabel",
+        "traber"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "wiehern",
+      "text": "wiehern",
+      "silben": "wie-hern",
+      "stufe": 3,
+      "ablenker": [
+        "wiegern",
+        "wiedern",
+        "wiehen"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "reiten",
+      "text": "reiten",
+      "silben": "rei-ten",
+      "stufe": 3,
+      "ablenker": [
+        "reifen",
+        "reisen",
+        "beiten"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "lustig",
+      "text": "lustig",
+      "silben": "lus-tig",
+      "stufe": 3,
+      "ablenker": [
+        "listig",
+        "rustig",
+        "lostig"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "froehlich",
+      "text": "fröhlich",
+      "silben": "fröh-lich",
+      "stufe": 3,
+      "ablenker": [
+        "frühlich",
+        "frählich",
+        "fröhling"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "freundlich",
+      "text": "freundlich",
+      "silben": "freund-lich",
+      "stufe": 3,
+      "ablenker": [
+        "freundich",
+        "freudlich",
+        "fraundlich"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "leise",
+      "text": "leise",
+      "silben": "lei-se",
+      "stufe": 3,
+      "ablenker": [
+        "reise",
+        "meise",
+        "laise"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "schreiben",
+      "text": "schreiben",
+      "silben": "schrei-ben",
+      "stufe": 3,
+      "ablenker": [
+        "schreien",
+        "schrauben",
+        "schleiben"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "basteln",
+      "text": "basteln",
+      "silben": "bas-teln",
+      "stufe": 3,
+      "ablenker": [
+        "bastein",
+        "bosteln",
+        "basseln"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "singen",
+      "text": "singen",
+      "silben": "sin-gen",
+      "stufe": 3,
+      "ablenker": [
+        "sinken",
+        "singer",
+        "fingen"
+      ],
+      "themen": [
+        "spiel",
+        "schule"
+      ]
+    },
+    {
+      "id": "springen",
+      "text": "springen",
+      "silben": "sprin-gen",
+      "stufe": 3,
+      "ablenker": [
+        "spingen",
+        "springer",
+        "sprangen"
+      ],
+      "themen": [
+        "pferde",
+        "spiel"
+      ]
+    },
+    {
+      "id": "fuettern",
+      "text": "füttern",
+      "silben": "füt-tern",
+      "stufe": 3,
+      "ablenker": [
+        "futtern",
+        "füttert",
+        "fättern"
+      ],
+      "themen": [
+        "tiere",
+        "pferde"
+      ]
+    },
+    {
+      "id": "tanzen",
+      "text": "tanzen",
+      "silben": "tan-zen",
+      "stufe": 3,
+      "ablenker": [
+        "tanken",
+        "tunzen",
+        "lanzen"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "klettern",
+      "text": "klettern",
+      "silben": "klet-tern",
+      "stufe": 3,
+      "ablenker": [
+        "kletten",
+        "klattern",
+        "kletter"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "fluestern",
+      "text": "flüstern",
+      "silben": "flüs-tern",
+      "stufe": 3,
+      "ablenker": [
+        "flustern",
+        "flüstert",
+        "flistern"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "schmetterling",
+      "text": "Schmetterling",
+      "silben": "Schmet-ter-ling",
+      "stufe": 4,
+      "ablenker": [
+        "Schmatterling",
+        "Schnetterling",
+        "Schmetterlinge"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "kuscheltier",
+      "text": "Kuscheltier",
+      "silben": "Ku-schel-tier",
+      "stufe": 4,
+      "ablenker": [
+        "Kuscheltür",
+        "Kuscheltor",
+        "Kischeltier"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "eidechse",
+      "text": "Eidechse",
+      "silben": "Ei-dech-se",
+      "stufe": 4,
+      "ablenker": [
+        "Eidechte",
+        "Eidachse",
+        "Eitechse"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "eichhoernchen",
+      "text": "Eichhörnchen",
+      "silben": "Eich-hörn-chen",
+      "stufe": 4,
+      "ablenker": [
+        "Eichhörnchem",
+        "Eichhärnchen",
+        "Aichhörnchen"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kaninchen",
+      "text": "Kaninchen",
+      "silben": "Ka-nin-chen",
+      "stufe": 4,
+      "ablenker": [
+        "Kaminchen",
+        "Kaninchem",
+        "Kanunchen"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "meerschweinchen",
+      "text": "Meerschweinchen",
+      "silben": "Meer-schwein-chen",
+      "stufe": 4,
+      "ablenker": [
+        "Meerschweinchem",
+        "Mehrschweinchen",
+        "Meerschwänchen"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kartoffel",
+      "text": "Kartoffel",
+      "silben": "Kar-tof-fel",
+      "stufe": 4,
+      "ablenker": [
+        "Kartoffal",
+        "Kortoffel",
+        "Kartuffel"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "schokolade",
+      "text": "Schokolade",
+      "silben": "Scho-ko-la-de",
+      "stufe": 4,
+      "ablenker": [
+        "Schakolade",
+        "Schokolode",
+        "Schokonade"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "limonade",
+      "text": "Limonade",
+      "silben": "Li-mo-na-de",
+      "stufe": 4,
+      "ablenker": [
+        "Lemonade",
+        "Limonate",
+        "Limolade"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "familie",
+      "text": "Familie",
+      "silben": "Fa-mi-li-e",
+      "stufe": 4,
+      "ablenker": [
+        "Famile",
+        "Femilie",
+        "Familei"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "melodie",
+      "text": "Melodie",
+      "silben": "Me-lo-die",
+      "stufe": 4,
+      "ablenker": [
+        "Melodei",
+        "Malodie",
+        "Melodia"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "kilometer",
+      "text": "Kilometer",
+      "silben": "Ki-lo-me-ter",
+      "stufe": 4,
+      "ablenker": [
+        "Kilometor",
+        "Kalometer",
+        "Kilomoter"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "haflinger",
+      "text": "Haflinger",
+      "silben": "Haf-lin-ger",
+      "stufe": 4,
+      "ablenker": [
+        "Hoflinger",
+        "Haflinder",
+        "Haflunger"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "reiterin",
+      "text": "Reiterin",
+      "silben": "Rei-te-rin",
+      "stufe": 4,
+      "ablenker": [
+        "Reiterim",
+        "Reitarin",
+        "Leiterin"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "geschwister",
+      "text": "Geschwister",
+      "silben": "Ge-schwis-ter",
+      "stufe": 4,
+      "ablenker": [
+        "Geschwester",
+        "Geschwistar",
+        "Geschwisten"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "flamingo",
+      "text": "Flamingo",
+      "silben": "Fla-min-go",
+      "stufe": 4,
+      "ablenker": [
+        "Flamengo",
+        "Plamingo",
+        "Flamindo"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "elefanten",
+      "text": "Elefanten",
+      "silben": "E-le-fan-ten",
+      "stufe": 4,
+      "ablenker": [
+        "Elefanden",
+        "Elofanten",
+        "Elefantin"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "krokodil",
+      "text": "Krokodil",
+      "silben": "Kro-ko-dil",
+      "stufe": 4,
+      "ablenker": [
+        "Krokodel",
+        "Krakodil",
+        "Krokotil"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "dromedar",
+      "text": "Dromedar",
+      "silben": "Dro-me-dar",
+      "stufe": 4,
+      "ablenker": [
+        "Dromedor",
+        "Drumedar",
+        "Tromedar"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "papageien",
+      "text": "Papageien",
+      "silben": "Pa-pa-gei-en",
+      "stufe": 4,
+      "ablenker": [
+        "Papageion",
+        "Papagaien",
+        "Pabageien"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "galoppieren",
+      "text": "galoppieren",
+      "silben": "ga-lop-pie-ren",
+      "stufe": 4,
+      "ablenker": [
+        "galopieren",
+        "galoppierer",
+        "galoppiren"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "spazieren",
+      "text": "spazieren",
+      "silben": "spa-zie-ren",
+      "stufe": 4,
+      "ablenker": [
+        "spazuren",
+        "sparieren",
+        "spaziesen"
+      ],
+      "themen": [
+        "natur",
+        "familie"
+      ]
+    },
+    {
+      "id": "frisieren",
+      "text": "frisieren",
+      "silben": "fri-sie-ren",
+      "stufe": 4,
+      "ablenker": [
+        "frisierer",
+        "friesieren",
+        "prisieren"
+      ],
+      "themen": [
+        "pferde",
+        "alltag"
+      ]
+    },
+    {
+      "id": "zauberer",
+      "text": "Zauberer",
+      "silben": "Zau-be-rer",
+      "stufe": 4,
+      "ablenker": [
+        "Zauberei",
+        "Zuberer",
+        "Zauberen"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "prinzessin",
+      "text": "Prinzessin",
+      "silben": "Prin-zes-sin",
+      "stufe": 4,
+      "ablenker": [
+        "Prinzessen",
+        "Printessin",
+        "Prinzassin"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "trompete",
+      "text": "Trompete",
+      "silben": "Trom-pe-te",
+      "stufe": 4,
+      "ablenker": [
+        "Trompote",
+        "Trampete",
+        "Trompele"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "gitarre",
+      "text": "Gitarre",
+      "silben": "Gi-tar-re",
+      "stufe": 4,
+      "ablenker": [
+        "Gitarra",
+        "Gitarte",
+        "Gutarre"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "karussell",
+      "text": "Karussell",
+      "silben": "Ka-rus-sell",
+      "stufe": 4,
+      "ablenker": [
+        "Karussel",
+        "Karossell",
+        "Karusselt"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "trampolin",
+      "text": "Trampolin",
+      "silben": "Tram-po-lin",
+      "stufe": 4,
+      "ablenker": [
+        "Trampelin",
+        "Trompolin",
+        "Trampolon"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "abenteuer",
+      "text": "Abenteuer",
+      "silben": "A-ben-teu-er",
+      "stufe": 4,
+      "ablenker": [
+        "Abenteurer",
+        "Abenbeuer",
+        "Abenteier"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "geschichte",
+      "text": "Geschichte",
+      "silben": "Ge-schich-te",
+      "stufe": 4,
+      "ablenker": [
+        "Gedichte",
+        "Geschichten",
+        "Geschiechte"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "buecherei",
+      "text": "Bücherei",
+      "silben": "Bü-che-rei",
+      "stufe": 4,
+      "ablenker": [
+        "Bücherer",
+        "Bucherei",
+        "Büchelei"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "froehlichkeit",
+      "text": "Fröhlichkeit",
+      "silben": "Fröh-lich-keit",
+      "stufe": 4,
+      "ablenker": [
+        "Fröhlichkait",
+        "Frühlichkeit",
+        "Fröhlichheit"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "zusammen",
+      "text": "zusammen",
+      "silben": "zu-sam-men",
+      "stufe": 4,
+      "ablenker": [
+        "zusammel",
+        "zasammen",
+        "zusommen"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "gemeinsam",
+      "text": "gemeinsam",
+      "silben": "ge-mein-sam",
+      "stufe": 4,
+      "ablenker": [
+        "gemeinsom",
+        "gemeinsan",
+        "geheimsam"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "verabreden",
+      "text": "verabreden",
+      "silben": "ver-ab-re-den",
+      "stufe": 4,
+      "ablenker": [
+        "veradreden",
+        "verabreten",
+        "verabredet"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "umarmen",
+      "text": "umarmen",
+      "silben": "um-ar-men",
+      "stufe": 4,
+      "ablenker": [
+        "umarmer",
+        "umarnen",
+        "umormen"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "kuschelig",
+      "text": "kuschelig",
+      "silben": "ku-sche-lig",
+      "stufe": 4,
+      "ablenker": [
+        "kuschelich",
+        "kuchelig",
+        "kuscheling"
+      ],
+      "themen": [
+        "tiere",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "wunderbar",
+      "text": "wunderbar",
+      "silben": "wun-der-bar",
+      "stufe": 4,
+      "ablenker": [
+        "wunderbor",
+        "wunderban",
+        "wonderbar"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "geduldig",
+      "text": "geduldig",
+      "silben": "ge-dul-dig",
+      "stufe": 4,
+      "ablenker": [
+        "gedultig",
+        "geduldich",
+        "gedaldig"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "vorsichtig",
+      "text": "vorsichtig",
+      "silben": "vor-sich-tig",
+      "stufe": 4,
+      "ablenker": [
+        "vorsichtich",
+        "vorsuchtig",
+        "versichtig"
+      ],
+      "themen": [
+        "alltag"
+      ]
+    },
+    {
+      "id": "fantastisch",
+      "text": "fantastisch",
+      "silben": "fan-tas-tisch",
+      "stufe": 4,
+      "ablenker": [
+        "fantastich",
+        "fantestisch",
+        "fanastisch"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "verstecken",
+      "text": "verstecken",
+      "silben": "ver-ste-cken",
+      "stufe": 4,
+      "ablenker": [
+        "verstechen",
+        "verstocken",
+        "versticken"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "libelle",
+      "text": "Libelle",
+      "silben": "Li-bel-le",
+      "stufe": 4,
+      "ablenker": [
+        "Libella",
+        "Libele",
+        "Lebelle"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "himbeere",
+      "text": "Himbeere",
+      "silben": "Him-bee-re",
+      "stufe": 4,
+      "ablenker": [
+        "Hinbeere",
+        "Himbiere",
+        "Himbeese"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "paprika",
+      "text": "Paprika",
+      "silben": "Pa-pri-ka",
+      "stufe": 4,
+      "ablenker": [
+        "Papriko",
+        "Pabrika",
+        "Paprina"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "spaghetti",
+      "text": "Spaghetti",
+      "silben": "Spa-ghet-ti",
+      "stufe": 4,
+      "ablenker": [
+        "Spagetti",
+        "Spaghetto",
+        "Spagelli"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "fledermaus",
+      "text": "Fledermaus",
+      "silben": "Fle-der-maus",
+      "stufe": 4,
+      "ablenker": [
+        "Federmaus",
+        "Fledermaul",
+        "Flederhaus"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "pferdestall",
+      "text": "Pferdestall",
+      "silben": "Pfer-de-stall",
+      "stufe": 5,
+      "ablenker": [
+        "Pferdestahl",
+        "Pfordestall",
+        "Pferdestell"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "freundschaftsband",
+      "text": "Freundschaftsband",
+      "silben": "Freund-schafts-band",
+      "stufe": 5,
+      "ablenker": [
+        "Freundschaftsbund",
+        "Freundschaftsland",
+        "Freundschaftsbank"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "giesskanne",
+      "text": "Gießkanne",
+      "silben": "Gieß-kan-ne",
+      "stufe": 5,
+      "ablenker": [
+        "Gießkanno",
+        "Gießkante",
+        "Gießkonne"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "hufeisen",
+      "text": "Hufeisen",
+      "silben": "Huf-ei-sen",
+      "stufe": 5,
+      "ablenker": [
+        "Hufeisan",
+        "Hufreisen",
+        "Hofeisen"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "ponyhof",
+      "text": "Ponyhof",
+      "silben": "Po-ny-hof",
+      "stufe": 5,
+      "ablenker": [
+        "Ponyhaf",
+        "Ponyhut",
+        "Panyhof"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "reiterhof",
+      "text": "Reiterhof",
+      "silben": "Rei-ter-hof",
+      "stufe": 5,
+      "ablenker": [
+        "Reiterhaf",
+        "Leiterhof",
+        "Reiterhut"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "heuballen",
+      "text": "Heuballen",
+      "silben": "Heu-bal-len",
+      "stufe": 5,
+      "ablenker": [
+        "Heuballon",
+        "Heuballer",
+        "Hauballen"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "streichelzoo",
+      "text": "Streichelzoo",
+      "silben": "Strei-chel-zoo",
+      "stufe": 5,
+      "ablenker": [
+        "Streichelzoe",
+        "Streichelzog",
+        "Streuchelzoo"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "geburtstag",
+      "text": "Geburtstag",
+      "silben": "Ge-burts-tag",
+      "stufe": 5,
+      "ablenker": [
+        "Geburtstog",
+        "Geburtstat",
+        "Gebortstag"
+      ],
+      "themen": [
+        "freundschaft",
+        "familie"
+      ]
+    },
+    {
+      "id": "schildkroete",
+      "text": "Schildkröte",
+      "silben": "Schild-krö-te",
+      "stufe": 5,
+      "ablenker": [
+        "Schildkrote",
+        "Schildkrüte",
+        "Schildkröle"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "grosseltern",
+      "text": "Großeltern",
+      "silben": "Groß-el-tern",
+      "stufe": 5,
+      "ablenker": [
+        "Großaltern",
+        "Großeltem",
+        "Kroßeltern"
+      ],
+      "themen": [
+        "familie"
+      ]
+    },
+    {
+      "id": "murmeltier",
+      "text": "Murmeltier",
+      "silben": "Mur-mel-tier",
+      "stufe": 5,
+      "ablenker": [
+        "Murmeltür",
+        "Murmeltor",
+        "Marmeltier"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "einhorn",
+      "text": "Einhorn",
+      "silben": "Ein-horn",
+      "stufe": 5,
+      "ablenker": [
+        "Einhorm",
+        "Einkorn",
+        "Eishorn"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "radiergummi",
+      "text": "Radiergummi",
+      "silben": "Ra-dier-gum-mi",
+      "stufe": 5,
+      "ablenker": [
+        "Radiergummo",
+        "Radiergumme",
+        "Rabiergummi"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "taschenlampe",
+      "text": "Taschenlampe",
+      "silben": "Ta-schen-lam-pe",
+      "stufe": 5,
+      "ablenker": [
+        "Taschenlampo",
+        "Taschenrampe",
+        "Tuschenlampe"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "apfelsaft",
+      "text": "Apfelsaft",
+      "silben": "Ap-fel-saft",
+      "stufe": 5,
+      "ablenker": [
+        "Apfelsaat",
+        "Apfelsatt",
+        "Opfelsaft"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "erdbeere",
+      "text": "Erdbeere",
+      "silben": "Erd-bee-re",
+      "stufe": 5,
+      "ablenker": [
+        "Erdbeeke",
+        "Ertbeere",
+        "Erdbaere"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "pfannkuchen",
+      "text": "Pfannkuchen",
+      "silben": "Pfann-ku-chen",
+      "stufe": 5,
+      "ablenker": [
+        "Pfannkuchel",
+        "Pfannküchen",
+        "Pfandkuchen"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "spielplatz",
+      "text": "Spielplatz",
+      "silben": "Spiel-platz",
+      "stufe": 5,
+      "ablenker": [
+        "Spielplatt",
+        "Spielpatz",
+        "Spielplanz"
+      ],
+      "themen": [
+        "spiel",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "sandkasten",
+      "text": "Sandkasten",
+      "silben": "Sand-kas-ten",
+      "stufe": 5,
+      "ablenker": [
+        "Sandkosten",
+        "Sandkaste",
+        "Randkasten"
+      ],
+      "themen": [
+        "spiel"
+      ]
+    },
+    {
+      "id": "schulranzen",
+      "text": "Schulranzen",
+      "silben": "Schul-ran-zen",
+      "stufe": 5,
+      "ablenker": [
+        "Schulranze",
+        "Schulrunzen",
+        "Schulranken"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "bleistift",
+      "text": "Bleistift",
+      "silben": "Blei-stift",
+      "stufe": 5,
+      "ablenker": [
+        "Bleistiff",
+        "Bleistint",
+        "Blaistift"
+      ],
+      "themen": [
+        "schule"
+      ]
+    },
+    {
+      "id": "schneemann",
+      "text": "Schneemann",
+      "silben": "Schnee-mann",
+      "stufe": 5,
+      "ablenker": [
+        "Schneemaus",
+        "Schmeemann",
+        "Schneeman"
+      ],
+      "themen": [
+        "natur",
+        "spiel"
+      ]
+    },
+    {
+      "id": "hundehuette",
+      "text": "Hundehütte",
+      "silben": "Hun-de-hüt-te",
+      "stufe": 5,
+      "ablenker": [
+        "Hundehüte",
+        "Kundehütte",
+        "Hundehatte"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "vogelnest",
+      "text": "Vogelnest",
+      "silben": "Vo-gel-nest",
+      "stufe": 5,
+      "ablenker": [
+        "Vogelnetz",
+        "Vogelrest",
+        "Vagelnest"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "regenbogen",
+      "text": "Regenbogen",
+      "silben": "Re-gen-bo-gen",
+      "stufe": 5,
+      "ablenker": [
+        "Regenbagen",
+        "Segenbogen",
+        "Regenbogel"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "sonnenblume",
+      "text": "Sonnenblume",
+      "silben": "Son-nen-blu-me",
+      "stufe": 5,
+      "ablenker": [
+        "Sonnenbluse",
+        "Sonnenblune",
+        "Sannenblume"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "brieffreundin",
+      "text": "Brieffreundin",
+      "silben": "Brief-freun-din",
+      "stufe": 5,
+      "ablenker": [
+        "Brieffreundim",
+        "Briefreundin",
+        "Brieffreudin"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "bilderbuch",
+      "text": "Bilderbuch",
+      "silben": "Bil-der-buch",
+      "stufe": 5,
+      "ablenker": [
+        "Bilderbach",
+        "Bilderbusch",
+        "Bildertuch"
+      ],
+      "themen": [
+        "schule",
+        "spiel"
+      ]
+    },
+    {
+      "id": "hilfsbereit",
+      "text": "hilfsbereit",
+      "silben": "hilfs-be-reit",
+      "stufe": 5,
+      "ablenker": [
+        "hilfsbereut",
+        "hilfsbreit",
+        "hiltsbereit"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "kuschelweich",
+      "text": "kuschelweich",
+      "silben": "ku-schel-weich",
+      "stufe": 5,
+      "ablenker": [
+        "kuschelweiß",
+        "kuschelreich",
+        "kuschelwelch"
+      ],
+      "themen": [
+        "tiere",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "federleicht",
+      "text": "federleicht",
+      "silben": "fe-der-leicht",
+      "stufe": 5,
+      "ablenker": [
+        "federlicht",
+        "fiederleicht",
+        "federleucht"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "zuckersuess",
+      "text": "zuckersüß",
+      "silben": "zu-cker-süß",
+      "stufe": 5,
+      "ablenker": [
+        "zuckersuß",
+        "zackersüß",
+        "zuckersüd"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "reiterhofferien",
+      "text": "Reiterhofferien",
+      "silben": "Rei-ter-hof-fe-ri-en",
+      "stufe": 6,
+      "ablenker": [
+        "Reiterhofferian",
+        "Leiterhofferien",
+        "Reiterhoffreien"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "schmetterlingsfluegel",
+      "text": "Schmetterlingsflügel",
+      "silben": "Schmet-ter-lings-flü-gel",
+      "stufe": 6,
+      "ablenker": [
+        "Schmetterlingsflegel",
+        "Schmetterlingsflügen",
+        "Schmatterlingsflügel"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "marienkaefer",
+      "text": "Marienkäfer",
+      "silben": "Ma-ri-en-kä-fer",
+      "stufe": 6,
+      "ablenker": [
+        "Marienkafer",
+        "Marienkäfen",
+        "Mariankäfer"
+      ],
+      "themen": [
+        "tiere",
+        "natur"
+      ]
+    },
+    {
+      "id": "pferdegeschichte",
+      "text": "Pferdegeschichte",
+      "silben": "Pfer-de-ge-schich-te",
+      "stufe": 6,
+      "ablenker": [
+        "Pferdegeschichten",
+        "Pferdegedichte",
+        "Pfordegeschichte"
+      ],
+      "themen": [
+        "pferde",
+        "schule"
+      ]
+    },
+    {
+      "id": "freundschaftsarmband",
+      "text": "Freundschaftsarmband",
+      "silben": "Freund-schafts-arm-band",
+      "stufe": 6,
+      "ablenker": [
+        "Freundschaftsarmbund",
+        "Freundschaftsarmland",
+        "Freundschaftsarmbank"
+      ],
+      "themen": [
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "geburtstagskuchen",
+      "text": "Geburtstagskuchen",
+      "silben": "Ge-burts-tags-ku-chen",
+      "stufe": 6,
+      "ablenker": [
+        "Geburtstagskuchel",
+        "Geburtstagskachen",
+        "Geburtstagsküchen"
+      ],
+      "themen": [
+        "freundschaft",
+        "essen"
+      ]
+    },
+    {
+      "id": "ponyreitstunde",
+      "text": "Ponyreitstunde",
+      "silben": "Po-ny-reit-stun-de",
+      "stufe": 6,
+      "ablenker": [
+        "Ponyreitstunden",
+        "Ponyreitstande",
+        "Panyreitstunde"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "kaninchenstall",
+      "text": "Kaninchenstall",
+      "silben": "Ka-nin-chen-stall",
+      "stufe": 6,
+      "ablenker": [
+        "Kaninchenstell",
+        "Kaninchenstahl",
+        "Kaminchenstall"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "meerschweinchenhaus",
+      "text": "Meerschweinchenhaus",
+      "silben": "Meer-schwein-chen-haus",
+      "stufe": 6,
+      "ablenker": [
+        "Meerschweinchenmaus",
+        "Meerschweinchenhaut",
+        "Mehrschweinchenhaus"
+      ],
+      "themen": [
+        "tiere"
+      ]
+    },
+    {
+      "id": "kindergeburtstag",
+      "text": "Kindergeburtstag",
+      "silben": "Kin-der-ge-burts-tag",
+      "stufe": 6,
+      "ablenker": [
+        "Kindergeburtstog",
+        "Kindergeburtstat",
+        "Kindergebortstag"
+      ],
+      "themen": [
+        "freundschaft",
+        "familie"
+      ]
+    },
+    {
+      "id": "sonnenblumenfeld",
+      "text": "Sonnenblumenfeld",
+      "silben": "Son-nen-blu-men-feld",
+      "stufe": 6,
+      "ablenker": [
+        "Sonnenblumenfels",
+        "Sonnenblumengeld",
+        "Sannenblumenfeld"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "schokoladenkuchen",
+      "text": "Schokoladenkuchen",
+      "silben": "Scho-ko-la-den-ku-chen",
+      "stufe": 6,
+      "ablenker": [
+        "Schokoladenkuchel",
+        "Schakoladenkuchen",
+        "Schokoladenküchen"
+      ],
+      "themen": [
+        "essen"
+      ]
+    },
+    {
+      "id": "sommerferien",
+      "text": "Sommerferien",
+      "silben": "Som-mer-fe-ri-en",
+      "stufe": 6,
+      "ablenker": [
+        "Sommerferian",
+        "Sammerferien",
+        "Sommerfeiern"
+      ],
+      "themen": [
+        "familie",
+        "alltag"
+      ]
+    },
+    {
+      "id": "pferdepflegerin",
+      "text": "Pferdepflegerin",
+      "silben": "Pfer-de-pfle-ge-rin",
+      "stufe": 6,
+      "ablenker": [
+        "Pferdepflegerim",
+        "Pferdepflagerin",
+        "Pfordepflegerin"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "reiterabzeichen",
+      "text": "Reiterabzeichen",
+      "silben": "Rei-ter-ab-zei-chen",
+      "stufe": 6,
+      "ablenker": [
+        "Reiterabzeichan",
+        "Leiterabzeichen",
+        "Reiterabreichen"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "regenbogenfarben",
+      "text": "Regenbogenfarben",
+      "silben": "Re-gen-bo-gen-far-ben",
+      "stufe": 6,
+      "ablenker": [
+        "Regenbogenfarbe",
+        "Regenbogenfalben",
+        "Regenbagenfarben"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "klassenausflug",
+      "text": "Klassenausflug",
+      "silben": "Klas-sen-aus-flug",
+      "stufe": 6,
+      "ablenker": [
+        "Klassenausflog",
+        "Klassenaufflug",
+        "Klossenausflug"
+      ],
+      "themen": [
+        "schule",
+        "freundschaft"
+      ]
+    },
+    {
+      "id": "pferdeanhaenger",
+      "text": "Pferdeanhänger",
+      "silben": "Pfer-de-an-hän-ger",
+      "stufe": 6,
+      "ablenker": [
+        "Pferdeanhängen",
+        "Pferdeanhänder",
+        "Pferdeanfänger"
+      ],
+      "themen": [
+        "pferde"
+      ]
+    },
+    {
+      "id": "waldspaziergang",
+      "text": "Waldspaziergang",
+      "silben": "Wald-spa-zier-gang",
+      "stufe": 6,
+      "ablenker": [
+        "Waldspaziergans",
+        "Waldspazierfang",
+        "Wildspaziergang"
+      ],
+      "themen": [
+        "natur",
+        "familie"
+      ]
+    },
+    {
+      "id": "apfelbaumbluete",
+      "text": "Apfelbaumblüte",
+      "silben": "Ap-fel-baum-blü-te",
+      "stufe": 6,
+      "ablenker": [
+        "Apfelbaumblüten",
+        "Apfelbaumblute",
+        "Apfelbaumbüte"
+      ],
+      "themen": [
+        "natur"
+      ]
+    },
+    {
+      "id": "erdbeerkuchen",
+      "text": "Erdbeerkuchen",
+      "silben": "Erd-beer-ku-chen",
+      "stufe": 6,
+      "ablenker": [
+        "Erdbeerkuchel",
+        "Erdbeerküchen",
+        "Erdbeerkachen"
+      ],
+      "themen": [
+        "essen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{ "stufe": 4, "geschichten": [
+  { "id": "s4-01", "titel": "Ein Stein im Huf", "thema": "pferde",
+    "text": "Fie|ne hilft je|den Sams|tag auf dem Hof von Frau Ber|ger. Ihr Lieb|lings|po|ny heißt Pünkt|chen, weil es lau|ter brau|ne Fle|cken hat.\n\nHeu|te hum|pelt Pünkt|chen ein biss|chen. Fie|ne schaut ge|nau hin und ent|deckt ei|nen klei|nen Stein im Huf. Vor|sich|tig holt Frau Ber|ger ihn mit ei|nem Huf|krat|zer he|raus.\n\nSchon läuft das Po|ny wie|der fröh|lich ü|ber die Wie|se. Zum Dank stupst es Fie|ne mit der wei|chen Na|se an. Fie|ne lacht: „Gern ge|sche|hen, Pünkt|chen!“",
+    "fragen": [
+      { "frage": "Wann hilft Fiene auf dem Hof?", "antworten": ["Jeden Samstag", "Jeden Montag", "Nur in den Ferien"], "richtig": 0, "art": "fakt" },
+      { "frage": "Was steckte in Pünktchens Huf?", "antworten": ["Ein Nagel", "Ein kleiner Stein", "Ein Stück Holz"], "richtig": 1, "art": "fakt" },
+      { "frage": "Womit stupst Pünktchen Fiene an?", "antworten": ["Mit dem Huf", "Mit dem Schweif", "Mit der Nase"], "richtig": 2, "art": "fakt" }
+    ] },
+  { "id": "s4-02", "titel": "Der I|gel im Laub", "thema": "tiere",
+    "text": "Im Gar|ten von O|pa Ru|di liegt ein gro|ßer Hau|fen Laub. Plötz|lich ra|schelt es da|rin. Ma|lik bleibt ganz still ste|hen.\n\nEi|ne klei|ne schwar|ze Na|se schaut he|raus. Dann kommt ein I|gel aus dem Laub und schnüf|felt am Bo|den.\n\n„Lass den Hau|fen lie|gen“, sagt O|pa Ru|di lei|se. „Da|rin schläft der I|gel im Win|ter.“ Ma|lik nickt und stellt dem I|gel ein Schäl|chen Was|ser hin.",
+    "fragen": [
+      { "frage": "Was raschelt im Laubhaufen?", "antworten": ["Eine Katze", "Ein Igel", "Eine Maus"], "richtig": 1, "art": "fakt" },
+      { "frage": "Wann schläft der Igel im Laubhaufen?", "antworten": ["Im Sommer", "Im Frühling", "Im Winter"], "richtig": 2, "art": "fakt" },
+      { "frage": "Was stellt Malik dem Igel hin?", "antworten": ["Ein Schälchen Wasser", "Einen Apfel", "Ein Stück Käse"], "richtig": 0, "art": "fakt" }
+    ] },
+  { "id": "s4-03", "titel": "Der ge|teil|te Re|gen|schirm", "thema": "freundschaft",
+    "text": "Nach der Schu|le reg|net es in Strö|men. Jo|na hat sei|nen Schirm zu Hau|se ver|ges|sen. Trau|rig steht er un|ter dem Vor|dach.\n\nDa kommt I|da mit ei|nem gel|ben Schirm vor|bei. „Komm drun|ter, der ist groß ge|nug für zwei!“, ruft sie.\n\nDicht ne|ben|ei|nan|der lau|fen die bei|den nach Hau|se. Sie sprin|gen la|chend ü|ber je|de Pfüt|ze. Jo|na fin|det, dass Re|gen mit I|da rich|tig Spaß macht.",
+    "fragen": [
+      { "frage": "Was hat Jona zu Hause vergessen?", "antworten": ["Seine Mütze", "Seinen Schirm", "Seine Brotdose"], "richtig": 1, "art": "fakt" },
+      { "frage": "Welche Farbe hat Idas Schirm?", "antworten": ["Rot", "Blau", "Gelb"], "richtig": 2, "art": "fakt" },
+      { "frage": "Worüber springen die beiden?", "antworten": ["Über jede Pfütze", "Über einen Zaun", "Über große Steine"], "richtig": 0, "art": "fakt" }
+    ] },
+  { "id": "s4-04", "titel": "Das neu|e Foh|len", "thema": "pferde",
+    "text": "Auf der Kop|pel steht ein neu|es Foh|len. Es hat lan|ge, wack|li|ge Bei|ne und ein wei|ches, grau|es Fell. Ma|ri|ta und ihr Bru|der Ben|no dür|fen es zum ers|ten Mal be|su|chen. Ganz lang|sam ge|hen sie zum Zaun.\n\nDas Foh|len guckt neu|gie|rig. Dann macht es ei|nen klei|nen Hop|ser und läuft zu sei|ner Mut|ter. „Es hat noch kei|nen Na|men“, sagt Ma|ri|ta. Ben|no grinst: „Wie wä|re es mit Hop|ser?“",
+    "fragen": [
+      { "frage": "Wie sind die Beine des Fohlens?", "antworten": ["Kurz und dick", "Lang und wacklig", "Weiß und schmal"], "richtig": 1, "art": "fakt" },
+      { "frage": "Wohin läuft das Fohlen nach seinem Hopser?", "antworten": ["Zum Zaun", "In den Stall", "Zu seiner Mutter"], "richtig": 2, "art": "fakt" },
+      { "frage": "Welchen Namen schlägt Benno vor?", "antworten": ["Hopser", "Flecki", "Wolke"], "richtig": 0, "art": "fakt" }
+    ] },
+  { "id": "s4-05", "titel": "El|ma und die Hum|mel", "thema": "tiere",
+    "text": "El|ma, der klei|ne mint|grü|ne Dra|che, sitzt im Gras. Ne|ben ihr krab|belt ei|ne di|cke Hum|mel lang|sam ü|ber ein Blatt. Sie summt ganz lei|se.\n\n„Du bist be|stimmt mü|de“, sagt El|ma. Sie holt ei|nen Löf|fel mit Zu|cker|was|ser und hält ihn der Hum|mel hin.\n\nDie Hum|mel trinkt ein paar Schlu|cke. Dann brummt sie laut, hebt ab und fliegt zu den bun|ten Blu|men. El|ma winkt ihr fröh|lich nach.",
+    "fragen": [
+      { "frage": "Wo sitzt Elma?", "antworten": ["Im Gras", "Auf einem Baum", "Am See"], "richtig": 0, "art": "fakt" },
+      { "frage": "Was gibt Elma der Hummel?", "antworten": ["Honig", "Zuckerwasser", "Blütenstaub"], "richtig": 1, "art": "fakt" },
+      { "frage": "Wohin fliegt die Hummel am Ende?", "antworten": ["In ihr Nest", "Zu Elma nach Hause", "Zu den bunten Blumen"], "richtig": 2, "art": "fakt" }
+    ] },
+  { "id": "s4-06", "titel": "Die Sand|burg", "thema": "freundschaft",
+    "text": "Am Strand baut Pau|li|ne ei|ne Sand|burg. Doch der Turm fällt im|mer wie|der um. Ein Jun|ge mit ro|ter Müt|ze schaut ihr zu.\n\n„Du brauchst nas|sen Sand“, sagt er. „Ich bin Ti|mo. Soll ich dir hel|fen?“ Pau|li|ne nickt.\n\nTi|mo holt Was|ser mit sei|nem Ei|mer. Zu|sam|men bau|en sie vier ho|he Tür|me und ei|nen Gra|ben. Am A|bend ha|ben sie die schöns|te Burg am gan|zen Strand.",
+    "fragen": [
+      { "frage": "Was passiert zuerst mit Paulines Turm?", "antworten": ["Ein Hund läuft darüber", "Er wird vom Regen nass", "Er fällt immer wieder um"], "richtig": 2, "art": "fakt" },
+      { "frage": "Was trägt Timo auf dem Kopf?", "antworten": ["Eine rote Mütze", "Eine blaue Kappe", "Einen Strohhut"], "richtig": 0, "art": "fakt" },
+      { "frage": "Wie viele Türme bauen die beiden zusammen?", "antworten": ["Zwei", "Vier", "Sechs"], "richtig": 1, "art": "fakt" }
+    ] }
+]}

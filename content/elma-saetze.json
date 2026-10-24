@@ -1,0 +1,86 @@
+{
+  "vorstellung": [
+    "Hallo! Ich bin Elma, ein kleiner Drache. Ich wohne im Lesehaus. Wollen wir zusammen lesen üben?"
+  ],
+  "begruessung": [
+    "Hallo {name}! Schön, dass du da bist!",
+    "Hallo {name}! Was wollen wir heute lesen?",
+    "Juhu, {name} ist da! Ich habe schon auf dich gewartet.",
+    "Hallo {name}! Such dir eine Übung aus.",
+    "Guten Tag, {name}! Meine Flügel kribbeln schon vor Freude.",
+    "Da bist du ja, {name}! Los geht's!"
+  ],
+  "lob": [
+    "Super!",
+    "Richtig!",
+    "Toll gemacht!",
+    "Klasse!",
+    "Prima!",
+    "Genau!",
+    "Wow, stark!",
+    "Spitze!",
+    "Das hast du super gelesen!",
+    "Juhu, richtig!",
+    "Bravo!",
+    "Ganz genau so!"
+  ],
+  "nochmal": [
+    "Fast! Probier es noch einmal.",
+    "Schau noch einmal genau hin.",
+    "Knapp daneben. Du schaffst das!",
+    "Hmm, noch nicht ganz. Versuch es noch mal.",
+    "Lies es noch einmal ganz langsam."
+  ],
+  "loesung": [
+    "Das war knifflig! Schau, so geht es richtig.",
+    "Das war schwer. Hier ist die Lösung.",
+    "Nicht schlimm! So ist es richtig."
+  ],
+  "runde3": [
+    "Drei Sterne! Du bist ein Lese-Star!",
+    "Wahnsinn, drei Sterne! Ich mache einen Freudensprung!",
+    "Alle Sterne für dich! Das war großartig!"
+  ],
+  "runde2": [
+    "Zwei Sterne! Das hast du richtig gut gemacht.",
+    "Toll geübt! Zwei Sterne für dich.",
+    "Prima! Jedes Mal wirst du sicherer."
+  ],
+  "runde1": [
+    "Ein Stern für fleißiges Üben! Das war schwer – und du hast durchgehalten.",
+    "Du hast tapfer geübt! Beim nächsten Mal wird es noch leichter.",
+    "Üben macht stark. Ein Stern für dich!"
+  ],
+  "stufeHoch": [
+    "Du bist bereit für schwierigere Aufgaben! Jetzt geht es auf Stufe {stufe}.",
+    "Wow, das klappt schon richtig gut! Ab jetzt übst du auf Stufe {stufe}.",
+    "Du bist so sicher geworden! Willkommen auf Stufe {stufe}!"
+  ],
+  "stufeRunter": [
+    "Wir üben jetzt ein bisschen mit Stufe {stufe}. So wirst du richtig sicher!",
+    "Ich habe eine gute Idee: Wir machen eine Weile auf Stufe {stufe} weiter. Dann wird es ganz leicht."
+  ],
+  "pause": [
+    "Für heute hast du genug geübt. Dein Kopf darf sich jetzt ausruhen. Bis morgen!"
+  ],
+  "tagesziel": [
+    "Du hast dein Tagesziel geschafft! Ich bin so stolz auf dich."
+  ],
+  "abzeichen": [
+    "Du hast ein neues Abzeichen bekommen!"
+  ],
+  "spielweltBald": [
+    "Hier entsteht bald ein Spielzimmer! Sammle schon mal fleißig Sterne."
+  ],
+  "anleitung": {
+    "silben-lesen": "Lies das Wort. Tippe auf eine Silbe, dann lese ich sie dir vor.",
+    "silben-puzzle": "Hör gut zu! Tippe die Silben in der richtigen Reihenfolge an.",
+    "silben-klatschen": "Lies das Wort. Tippe für jede Silbe einmal auf die Hände. Dann tippe auf den Haken.",
+    "blitz-achtung": "Achtung, gleich blitzt ein Wort auf!",
+    "blitz-waehlen": "Welches Wort hast du gesehen?",
+    "blitz-achtung-satz": "Achtung, gleich blitzt etwas auf!",
+    "blitz-waehlen-satz": "Was hast du gesehen?",
+    "texte-lesen": "Lies die Geschichte. Tippe auf ein Wort, dann lese ich es dir vor. Wenn du fertig bist, tippe auf den Haken.",
+    "texte-fragen": "Jetzt kommen drei Fragen zur Geschichte. Mit dem Buch kannst du nachschauen."
+  }
+}
